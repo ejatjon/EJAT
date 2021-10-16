@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html class="translated-ltr"><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta name="description" content="Magz is a HTML5 &amp; CSS3 magazine template is based on Bootstrap 3.">
+		
+		
+		<title>Magz — 响应式 HTML5 和 CSS3 杂志模板</title>
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="scripts/bootstrap/bootstrap.min.css">
+		<!-- IonIcons -->
+		<link rel="stylesheet" href="scripts/ionicons/css/ionicons.min.css">
+		<!-- Toast -->
+		<link rel="stylesheet" href="scripts/toast/jquery.toast.min.css">
+		<!-- OwlCarousel -->
+		<link rel="stylesheet" href="scripts/owlcarousel/dist/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="scripts/owlcarousel/dist/assets/owl.theme.default.min.css">
+		<!-- Magnific Popup -->
+		<link rel="stylesheet" href="scripts/magnific-popup/dist/magnific-popup.css">
+		<link rel="stylesheet" href="scripts/sweetalert/dist/sweetalert.css">
+		<!-- Custom style -->
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/skins/all.css">
+		<link rel="stylesheet" href="css/demo.css">
+		<!-- Bootstrap Core CSS -->
+		<link  rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+		<!-- This page CSS -->
+		<!-- chartist CSS -->
+		<link href="assets/plugins/chartist-js/dist/chartist.min.css" rel="stylesheet">
+		<link href="assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" rel="stylesheet">
+		<!--c3 CSS -->
+		<link href="assets/plugins/c3-master/c3.min.css" rel="stylesheet">
+		<!-- Custom CSS -->
+		<link href="css/style1.css" rel="stylesheet">
+		<!-- Dashboard 1 Page CSS -->
+		<link href="css/pages/dashboard.css" rel="stylesheet">
+		<!-- You can change the theme colors from here -->
+		<link href="css/colors/default-dark.css" id="theme" rel="stylesheet">
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+		<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"></head>
+
+	<body class=" skin-default"  >
+		<header class="primary" style="top: 0px;">
+			<div class="firstbar">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-sm-12">
+							<div class="brand">
+								<a href="index.html">
+									<img src="images/logo.png" alt="Magz 标志">
+								</a>
+							</div>						
+						</div>
+						<div class="col-md-6 col-sm-12">
+							<form class="search" autocomplete="off">
+								<div class="form-group">
+									<div class="input-group">
+										<input type="text" name="q" class="form-control" placeholder="在此处输入内容">									
+										<div class="input-group-btn">
+											<button class="btn btn-primary"><i class="ion-search"></i></button>
+										</div>
+									</div>
+								</div>
+								<div class="help-block">
+									<div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">受欢迎的：</font></font></div>
+									<ul>
+										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML5</font></font></a></li>
+										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS3</font></font></a></li>
+										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引导程序 3</font></font></a></li>
+										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jQuery</font></font></a></li>
+										<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AnguarJS</font></font></a></li>
+									</ul>
+								</div>
+							</form>								
+						</div>
+						<div class="col-md-3 col-sm-12 text-right">
+							<ul class="nav-icons">
+								<li><a href="register.html"><i class="ion-person-add"></i><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登记</font></font></div></a></li>
+								<li><a href="login.html"><i class="ion-person"></i><div><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录</font></font></div></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Start nav -->
+			<nav class="menu">
+				<div class="container">
+					<div class="brand">
+						<a href="#">
+							<img src="images/logo.png" alt="Magz 标志">
+						</a>
+					</div>
+					<div class="mobile-toggle">
+						<a href="#" data-toggle="menu" data-target="#menu-list"><i class="ion-navicon-round"></i></a>
+					</div>
+					<div class="mobile-toggle">
+						<a href="#" data-toggle="sidebar" data-target="#sidebar" style="display: none;"><i class="ion-ios-arrow-left"></i></a>
+					</div>
+					<div id="menu-list">
+						<ul class="nav-list">
+							<li class="for-tablet nav-title"><a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">菜单</font></font></a></li>
+							<li class="for-tablet"><a href="login.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录</font></font></a></li>
+							<li class="for-tablet"><a href="register.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登记</font></font></a></li>
+							<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标准</font></font></a></li>
+							<li class="dropdown magz-dropdown">
+								<a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">页面 </font></font><i class="ion-ios-arrow-right"></i></a>
+								<ul class="dropdown-menu">
+									<li><a href="index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">家</font></font></a></li>
+									<li class="dropdown magz-dropdown">
+										<a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证 </font></font><i class="ion-ios-arrow-right"></i></a>
+										<ul class="dropdown-menu">
+											<li><a href="login.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登录</font></font></a></li>
+											<li><a href="register.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">登记</font></font></a></li>
+											<li><a href="forgot.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">忘记密码</font></font></a></li>
+											<li><a href="reset.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重设密码</font></font></a></li>
+										</ul>
+									</li>
+									<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">类别</font></font></a></li>
+									<li><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单身的</font></font></a></li>
+									<li><a href="page.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">页</font></font></a></li>
+									<li><a href="search.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索</font></font></a></li>
+									<li><a href="contact.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></a></li>
+									<li class="dropdown magz-dropdown">
+										<a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误 </font></font><i class="ion-ios-arrow-right"></i></a>
+										<ul class="dropdown-menu">
+											<li><a href="403.html">403</a></li>
+											<li><a href="404.html">404</a></li>
+											<li><a href="500.html">500</a></li>
+											<li><a href="503.html">503</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="dropdown magz-dropdown"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">落下 </font></font><i class="ion-ios-arrow-right"></i></a>
+								<ul class="dropdown-menu">
+									<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互联网</font></font></a></li>
+									<li class="dropdown magz-dropdown"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故障排除 </font></font><i class="ion-ios-arrow-right"></i></a>
+										<ul class="dropdown-menu">
+											<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件</font></font></a></li>
+											<li class="dropdown magz-dropdown"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件 </font></font><i class="ion-ios-arrow-right"></i></a>
+												<ul class="dropdown-menu">
+													<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主板</font></font></a></li>
+													<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内存</font></font></a></li>
+													<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电源供应</font></font></a></li>
+												</ul>
+											</li>
+											<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">脑器</font></font></a>
+										</li></ul>
+									</li>
+									<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">办公室</font></font></a></li>
+									<li class="dropdown magz-dropdown"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程 </font></font><i class="ion-ios-arrow-right"></i></a>
+										<ul class="dropdown-menu">
+											<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络</font></font></a></li>
+											<li class="dropdown magz-dropdown"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动的 </font></font><i class="ion-ios-arrow-right"></i></a>
+												<ul class="dropdown-menu">
+													<li class="dropdown magz-dropdown"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">杂交种 </font></font><i class="ion-ios-arrow-right"></i></a>
+														<ul class="dropdown-menu">
+															<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离子框架 1</font></font></a></li>
+															<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离子框架 2</font></font></a></li>
+															<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离子框架 3</font></font></a></li>
+															<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架 7</font></font></a></li>
+														</ul>
+													</li>
+													<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本国的</font></font></a></li>
+												</ul>
+											</li>
+											<li><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">桌面</font></font></a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">超级菜单 </font></font><i class="ion-ios-arrow-right"></i> <div class="badge"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">热的</font></font></div></a>
+								<div class="dropdown-menu megamenu">
+									<div class="megamenu-inner">
+										<div class="row">
+											<div class="col-md-3">
+												<div class="row">
+													<div class="col-md-12">
+														<h2 class="megamenu-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">趋势</font></font></h2>
+													</div>
+												</div>
+												<ul class="vertical-menu">
+													<li><a href="#"><i class="ion-ios-circle-outline"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 超级菜单是一项新功能</font></font></a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 这是一个例子</font></font></a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 对于子菜单项</font></font></a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 你可以加</font></font></a></li>
+													<li><a href="#"><i class="ion-ios-circle-outline"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 您自己的物品</font></font></a></li>
+												</ul>
+											</div>
+											<div class="col-md-9">
+												<div class="row">
+													<div class="col-md-12">
+														<h2 class="megamenu-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精选文章</font></font></h2>
+													</div>
+												</div>
+												<div class="row">
+													<article class="article col-md-4 mini">
+														<div class="inner">
+															<figure>
+																<a href="single.html">
+																	<img src="images/news/img10.jpg" alt="样本文章">
+																</a>
+															</figure>
+															<div class="padding">
+																<div class="detail">
+																	<div class="time"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2016 年 12 月 10 日</font></font></div>
+																	<div class="category"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">健康</font></font></a></div>
+																</div>
+																<h2><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但消费者cupidatat作业找到乐趣</font></font></a></h2>
+															</div>
+														</div>
+													</article>
+													<article class="article col-md-4 mini">
+														<div class="inner">
+															<figure>
+																<a href="single.html">
+																	<img src="images/news/img11.jpg" alt="样本文章">
+																</a>
+															</figure>
+															<div class="padding">
+																<div class="detail">
+																	<div class="time"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2016 年 12 月 13 日</font></font></div>
+																	<div class="category"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生活方式</font></font></a></div>
+																</div>
+																<h2><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但消费者cupidatat作业找到乐趣</font></font></a></h2>
+															</div>
+														</div>
+													</article>
+													<article class="article col-md-4 mini">
+														<div class="inner">
+															<figure>
+																<a href="single.html">
+																	<img src="images/news/img14.jpg" alt="样本文章">
+																</a>
+															</figure>
+															<div class="padding">
+																<div class="detail">
+																	<div class="time"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2016 年 12 月 14 日</font></font></div>
+																	<div class="category"><a href="category.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">旅行</font></font></a></div>
+																</div>
+																<h2><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但消费者cupidatat作业找到乐趣</font></font></a></h2>
+															</div>
+														</div>
+													</article>
+												</div>
+											</div>
+										</div>								
+									</div>
+								</div>
+							</li>
+							<li class="dropdown magz-dropdown magz-dropdown-megamenu"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">柱子 </font></font><i class="ion-ios-arrow-right"></i></a>
+								<div class="dropdown-menu megamenu">
+									<div class="megamenu-inner">
+										<div class="row">
+											<div class="col-md-3">
+												<h2 class="megamenu-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 1 栏</font></font></h2>
+												<ul class="vertical-menu">
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例 1</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例 2</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例 3</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例 4</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 5</font></font></a></li>
+												</ul>
+											</div>
+											<div class="col-md-3">
+												<h2 class="megamenu-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 2 栏</font></font></h2>
+												<ul class="vertical-menu">
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 6</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 7</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 8</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 9</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 10</font></font></a></li>
+												</ul>
+											</div>
+											<div class="col-md-3">
+												<h2 class="megamenu-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 3 栏</font></font></h2>
+												<ul class="vertical-menu">
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 11</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 12</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 13</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 14</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 15</font></font></a></li>
+												</ul>
+											</div>
+											<div class="col-md-3">
+												<h2 class="megamenu-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 4 栏</font></font></h2>
+												<ul class="vertical-menu">
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 16</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 17</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 18</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 19</font></font></a></li>
+													<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例 20</font></font></a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+							<li class="dropdown magz-dropdown"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下拉图标 </font></font><i class="ion-ios-arrow-right"></i></a>
+								<ul class="dropdown-menu">
+									<li><a href="#"><i class="icon ion-person"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 我的帐户</font></font></a></li>
+									<li><a href="#"><i class="icon ion-heart"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 最喜欢的</font></font></a></li>
+									<li><a href="#"><i class="icon ion-chatbox"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 注释</font></font></a></li>
+									<li><a href="#"><i class="icon ion-key"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 更改密码</font></font></a></li>
+									<li><a href="#"><i class="icon ion-settings"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 设置</font></font></a></li>
+									<li class="divider"></li>
+									<li><a href="#"><i class="icon ion-log-out"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 登出</font></font></a></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			<!-- End nav -->
+		</header>
+
+		<aside class=" col-md-2" style="padding-top: 219px;min-height:500px;">
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar " style="min-height:600px">
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav active">
+                    <ul id="sidebarnav" class="in">
+                        <li class="active"> <a class="waves-effect waves-dark active" href="index.html" aria-expanded="false"><i class="mdi mdi-trending-up"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据展示</font></font></span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="pages-profile.html" aria-expanded="false"><i class="mdi mdi-account-card-details"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的个人资料</font></font></span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="table-basic.html" aria-expanded="false"><i class="mdi mdi-bookmark"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">收藏夹</font></font></span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="icon-material.html" aria-expanded="false"><i class="mdi mdi-account-star-variant"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的关注</font></font></span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="map-google.html" aria-expanded="false"><i class="mdi mdi-account-settings"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的粉丝</font></font></span></a></li>
+						<li> <a class="waves-effect waves-dark" href="map-google.html" aria-expanded="false"><i class="mdi mdi-apple-keyboard-shift"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的发布</font></font></span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="map-google.html" aria-expanded="false"><i class="mdi mdi-flower"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的动态</font></font></span></a></li>
+                        <li> <a class="waves-effect waves-dark" href="map-google.html" aria-expanded="false"><i class="mdi mdi-message"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">私信与通知</font></font></span></a></li>
+
+                        <li> <a class="waves-effect waves-dark" href="pages-blank.html" aria-expanded="false"><i class="mdi mdi-account-settings-variant"></i><span class="hide-menu"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">账户设置</font></font></span></a></li>
+<!--                        <li> <a class="waves-effect waves-dark" href="pages-error-404.html" aria-expanded="false"><i class="mdi mdi-help-circle"></i><span class="hide-menu">404</span></a></li>-->
+                    </ul>
+<!--                    <div class="text-center m-t-30">-->
+<!--                        <a href="#" class="btn waves-effect waves-light btn-info hidden-md-down"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 升级到专业版</font></font></a>-->
+<!--                    </div>-->
+                </nav>
+                <!-- End Sidebar navigation -->
+            <div class="ps__scrollbar-x-rail" style="left: 0px; bottom: 0px;"><div class="ps__scrollbar-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps__scrollbar-y-rail" style="top: 0px; right: 0px;"><div class="ps__scrollbar-y" tabindex="0" style="top: 0px; height: 0px;"></div></div></div>
+            <!-- End Sidebar scroll-->
+        </aside>
+
+
+		<div class="col-md-9" style="min-height: 2900px; padding-top: 219px;">
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <!-- ============================================================== -->
+                <!-- Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <div class="row page-titles">
+                    <div class="col-md-5 align-self-center">
+                        <h3 class="text-themecolor"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仪表盘</font></font></h3>
+                    </div>
+                    <div class="col-md-7 align-self-center">
+                        <a href="#" class="btn waves-effect waves-light btn-danger pull-right hidden-sm-down"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 升级到专业版</font></font></a>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Bread crumb and right sidebar toggle -->
+                <!-- ============================================================== -->
+                <!-- ============================================================== -->
+                <!-- Sales overview chart -->
+                <!-- ============================================================== -->
+                <div class="row">
+                    <div class="col-lg-8 col-md-7">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex">
+                                    <div>
+                                        <h3 class="card-title m-b-5"><span class="lstick"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">销售概览 </font></font></h3>
+                                    </div>
+                                    <div class="ml-auto">
+                                        <select class="custom-select b-0">
+                                            <option selected=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017 年 1 月</font></font></option>
+                                            <option value="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017 年 2 月</font></font></option>
+                                            <option value="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017 年 3 月</font></font></option>
+                                            <option value="3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017 年 4 月</font></font></option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div id="sales-overview2" class="p-relative" style="height:360px;">
+									<div class="chartist-tooltip" style="top: 232px; left: 661px;"></div>
+<!--									<svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-line" style="width: 100%; height: 100%;">-->
+<!--										<g class="ct-grids">-->
+<!--											<line y1="280" y2="280" x1="40" x2="657.5" class="ct-grid ct-vertical"></line>-->
+<!--											<line y1="217.5" y2="217.5" x1="40" x2="657.5" class="ct-grid ct-vertical"></line>-->
+<!--											<line y1="155" y2="155" x1="40" x2="657.5" class="ct-grid ct-vertical"></line>-->
+<!--											<line y1="92.5" y2="92.5" x1="40" x2="657.5" class="ct-grid ct-vertical"></line>-->
+<!--											<line y1="30" y2="30" x1="40" x2="657.5" class="ct-grid ct-vertical"></line>-->
+<!--										</g>-->
+<!--										<g>-->
+<!--											<g ct:meta="Earning ($)" class="ct-series ct-series-a">-->
+<!--												<path d="M40,280L40,280L96.136,186.25L152.273,211.25L208.409,130L264.545,155L320.682,155L376.818,92.5L432.955,155L489.091,42.5L545.227,92.5L601.364,30L657.5,42.5L657.5,280Z" class="ct-area"></path>-->
+<!--												<path d="M40,280L96.136,186.25L152.273,211.25L208.409,130L264.545,155L320.682,155L376.818,92.5L432.955,155L489.091,42.5L545.227,92.5L601.364,30L657.5,42.5" class="ct-line"></path>-->
+<!--												<line x1="40" y1="280" x2="40.01" y2="280" class="ct-point" ct:value="0"></line>-->
+<!--												<line x1="96.13636363636363" y1="186.25" x2="96.14636363636363" y2="186.25" class="ct-point" ct:value="150"></line>-->
+<!--												<line x1="152.27272727272725" y1="211.25" x2="152.28272727272724" y2="211.25" class="ct-point" ct:value="110"></line>-->
+<!--												<line x1="208.4090909090909" y1="130" x2="208.4190909090909" y2="130" class="ct-point" ct:value="240"></line>-->
+<!--												<line x1="264.5454545454545" y1="155" x2="264.5554545454545" y2="155" class="ct-point" ct:value="200"></line>-->
+<!--												<line x1="320.6818181818182" y1="155" x2="320.6918181818182" y2="155" class="ct-point" ct:value="200"></line>-->
+<!--												<line x1="376.8181818181818" y1="92.5" x2="376.8281818181818" y2="92.5" class="ct-point" ct:value="300"></line>-->
+<!--												<line x1="432.95454545454544" y1="155" x2="432.96454545454543" y2="155" class="ct-point" ct:value="200"></line>-->
+<!--												<line x1="489.09090909090907" y1="42.5" x2="489.10090909090906" y2="42.5" class="ct-point" ct:value="380"></line>-->
+<!--												<line x1="545.2272727272727" y1="92.5" x2="545.2372727272727" y2="92.5" class="ct-point" ct:value="300"></line>-->
+<!--												<line x1="601.3636363636364" y1="30" x2="601.3736363636364" y2="30" class="ct-point" ct:value="400"></line>-->
+<!--												<line x1="657.5" y1="42.5" x2="657.51" y2="42.5" class="ct-point" ct:value="380"></line>-->
+<!--											</g>-->
+<!--										</g>-->
+<!--										<g class="ct-labels">-->
+<!--											<foreignObject style="overflow: visible;" x="40" y="285" width="56.13636363636363" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Jan</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="96.13636363636363" y="285" width="56.13636363636363" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Feb</span>-->
+<!--											</foreignObject><foreignObject style="overflow: visible;" x="152.27272727272725" y="285" width="56.13636363636364" height="40">-->
+<!--											<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Mar</span>-->
+<!--										</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="208.4090909090909" y="285" width="56.136363636363626" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Apr</span>-->
+<!--											</foreignObject><foreignObject style="overflow: visible;" x="264.5454545454545" y="285" width="56.136363636363654" height="40">-->
+<!--											<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">May</span>-->
+<!--										</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="320.6818181818182" y="285" width="56.136363636363626" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Jun</span>-->
+<!--											</foreignObject><foreignObject style="overflow: visible;" x="376.8181818181818" y="285" width="56.136363636363626" height="40">-->
+<!--											<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Jul</span>-->
+<!--										</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="432.95454545454544" y="285" width="56.136363636363626" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Aug</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="489.09090909090907" y="285" width="56.136363636363626" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Sep</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="545.2272727272727" y="285" width="56.13636363636368" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Oct</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="601.3636363636364" y="285" width="56.136363636363626" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 56px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Nov</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" x="657.5" y="285" width="30" height="40">-->
+<!--												<span class="ct-label ct-horizontal ct-end" style="width: 30px; height: 40px" xmlns="http://www.w3.org/2000/xmlns/">Dec</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" y="217.5" x="30" height="62.5" width="0">-->
+<!--												<span class="ct-label ct-vertical ct-start" style="height: 63px; width: 0px" xmlns="http://www.w3.org/2000/xmlns/">0k</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" y="155" x="30" height="62.5" width="0">-->
+<!--												<span class="ct-label ct-vertical ct-start" style="height: 63px; width: 0px" xmlns="http://www.w3.org/2000/xmlns/">1k</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" y="92.5" x="30" height="62.5" width="0">-->
+<!--												<span class="ct-label ct-vertical ct-start" style="height: 63px; width: 0px" xmlns="http://www.w3.org/2000/xmlns/">2k</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" y="30" x="30" height="62.5" width="0">-->
+<!--												<span class="ct-label ct-vertical ct-start" style="height: 63px; width: 0px" xmlns="http://www.w3.org/2000/xmlns/">3k</span>-->
+<!--											</foreignObject>-->
+<!--											<foreignObject style="overflow: visible;" y="0" x="30" height="30" width="0">-->
+<!--												<span class="ct-label ct-vertical ct-start" style="height: 30px; width: 0px" xmlns="http://www.w3.org/2000/xmlns/">4k</span>-->
+<!--											</foreignObject>-->
+<!--										</g>-->
+<!--									</svg>-->
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ============================================================== -->
+                    <!-- visit charts-->
+                    <!-- ============================================================== -->
+                    <div class="col-lg-4 col-md-9">
+                        <div class="card">
+                            <div class="card-body">
+                                <h4 class="card-title"><span class="lstick"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问分离</font></font></h4>
+                                <div id="visitor" style="height: 350px; width: 100%; max-height: 350px; position: relative;" class="c3">
+<!--									<svg width="182.5" height="250" style="overflow: hidden;">-->
+<!--										<defs><clipPath id="c3-1624700220332-clip">-->
+<!--											<rect width="182.5" height="226"></rect>-->
+<!--										</clipPath><clipPath id="c3-1624700220332-clip-xaxis">-->
+<!--											<rect x="-31" y="-20" width="244.5" height="40"></rect>-->
+<!--										</clipPath><clipPath id="c3-1624700220332-clip-yaxis">-->
+<!--											<rect x="-29" y="-4" width="20" height="250"></rect>-->
+<!--										</clipPath><clipPath id="c3-1624700220332-clip-grid">-->
+<!--											<rect width="182.5" height="226"></rect>-->
+<!--										</clipPath><clipPath id="c3-1624700220332-clip-subchart">-->
+<!--											<rect width="182.5"></rect>-->
+<!--										</clipPath></defs><g transform="translate(0.5,4.5)">-->
+<!--										<text class="c3-text c3-empty" text-anchor="middle" dominant-baseline="middle" x="91.25" y="113" style="opacity: 0;"></text>-->
+<!--										<rect class="c3-zoom-rect" width="182.5" height="226" style="opacity: 0;"></rect>-->
+<!--										<g clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip)" class="c3-regions" style="visibility: hidden;"></g>-->
+<!--										<g clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip-grid)" class="c3-grid" style="visibility: hidden;">-->
+<!--											<g class="c3-xgrid-focus">-->
+<!--												<line class="c3-xgrid-focus" x1="-10" x2="-10" y1="0" y2="226" style="visibility: hidden;"></line>-->
+<!--											</g>-->
+<!--										</g>-->
+<!--										<g clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip)" class="c3-chart">-->
+<!--											<g class="c3-event-rects c3-event-rects-single" style="fill-opacity: 0;">-->
+<!--												<rect class=" c3-event-rect c3-event-rect-0" x="0.75" y="0" width="182.5" height="226"></rect>-->
+<!--											</g>-->
+<!--											<g class="c3-chart-bars">-->
+<!--												<g class="c3-chart-bar c3-target c3-target-Other" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Other c3-bars c3-bars-Other" style="cursor: pointer;"></g>-->
+<!--												</g>-->
+<!--												<g class="c3-chart-bar c3-target c3-target-Desktop" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Desktop c3-bars c3-bars-Desktop" style="cursor: pointer;"></g>-->
+<!--												</g>-->
+<!--												<g class="c3-chart-bar c3-target c3-target-Tablet" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Tablet c3-bars c3-bars-Tablet" style="cursor: pointer;"></g>-->
+<!--												</g>-->
+<!--												<g class="c3-chart-bar c3-target c3-target-Mobile" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Mobile c3-bars c3-bars-Mobile" style="cursor: pointer;"></g>-->
+<!--												</g>-->
+<!--											</g>-->
+<!--											<g class="c3-chart-lines">-->
+<!--												<g class="c3-chart-line c3-target c3-target-Other" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Other c3-lines c3-lines-Other"></g>-->
+<!--													<g class=" c3-shapes c3-shapes-Other c3-areas c3-areas-Other"></g>-->
+<!--													<g class=" c3-selected-circles c3-selected-circles-Other"></g>-->
+<!--													<g class=" c3-shapes c3-shapes-Other c3-circles c3-circles-Other" style="cursor: pointer;"></g>-->
+<!--												</g>-->
+<!--												<g class="c3-chart-line c3-target c3-target-Desktop" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Desktop c3-lines c3-lines-Desktop"></g>-->
+<!--													<g class=" c3-shapes c3-shapes-Desktop c3-areas c3-areas-Desktop"></g>-->
+<!--													<g class=" c3-selected-circles c3-selected-circles-Desktop"></g>-->
+<!--													<g class=" c3-shapes c3-shapes-Desktop c3-circles c3-circles-Desktop" style="cursor: pointer;"></g>-->
+<!--												</g>-->
+<!--												<g class="c3-chart-line c3-target c3-target-Tablet" style="opacity: 1; pointer-events: none;">-->
+<!--													<g class=" c3-shapes c3-shapes-Tablet c3-lines c3-lines-Tablet"></g>-->
+<!--													<g class=" c3-shapes c3-shapes-Tablet c3-areas c3-areas-Tablet"></g>-->
+<!--													<g class=" c3-selected-circles c3-selected-circles-Tablet"></g><g class=" c3-shapes c3-shapes-Tablet c3-circles c3-circles-Tablet" style="cursor: pointer;"></g></g><g class="c3-chart-line c3-target c3-target-Mobile" style="opacity: 1; pointer-events: none;"><g class=" c3-shapes c3-shapes-Mobile c3-lines c3-lines-Mobile"></g><g class=" c3-shapes c3-shapes-Mobile c3-areas c3-areas-Mobile"></g><g class=" c3-selected-circles c3-selected-circles-Mobile"></g><g class=" c3-shapes c3-shapes-Mobile c3-circles c3-circles-Mobile" style="cursor: pointer;"></g></g></g><g class="c3-chart-arcs" transform="translate(91.25,108)"><text class="c3-chart-arcs-title" style="text-anchor: middle; opacity: 1;">Visits</text><g class="c3-chart-arc c3-target c3-target-Other"><g class=" c3-shapes c3-shapes-Other c3-arcs c3-arcs-Other"><path class=" c3-shape c3-shape c3-arc c3-arc-Other" transform="scale(1,1)" style="fill: rgb(236, 239, 241); cursor: pointer; opacity: 1;" d="M-81.05422053779189,30.739811145499825A86.6875,86.6875 0 0,1 -40.285689976544234,-76.75796922381261L-30.991226535668854,-59.048848710748416A66.6875,66.6875 0 0,0 -62.3538956840836,23.64771340464911Z"></path></g><text dy=".35em" class="" transform="translate(-61.57812439523056,-23.353502162430996)" style="opacity: 1; text-anchor: middle; pointer-events: none;"></text></g><g class="c3-chart-arc c3-target c3-target-Desktop"><g class=" c3-shapes c3-shapes-Desktop c3-arcs c3-arcs-Desktop"><path class=" c3-shape c3-shape c3-arc c3-arc-Desktop" transform="scale(1,1)" style="fill: rgb(116, 90, 242); cursor: pointer; opacity: 1;" d="M-40.285689976544234,-76.75796922381261A86.6875,86.6875 0 0,1 -9.291820216791753e-14,-86.6875L-7.148069337647296e-14,-66.6875A66.6875,66.6875 0 0,0 -30.991226535668854,-59.048848710748416Z"></path></g><text dy=".35em" class="" transform="translate(-15.760806146962983,-63.94410416045417)" style="opacity: 1; text-anchor: middle; pointer-events: none;"></text></g><g class="c3-chart-arc c3-target c3-target-Tablet"><g class=" c3-shapes c3-shapes-Tablet c3-arcs c3-arcs-Tablet"><path class=" c3-shape c3-shape c3-arc c3-arc-Tablet" transform="scale(1,1)" style="fill: rgb(38, 198, 218); cursor: pointer; opacity: 1;" d="M57.484445436248954,64.8865254820823A86.6875,86.6875 0 0,1 -81.05422053779189,30.739811145499825L-62.3538956840836,23.64771340464911A66.6875,66.6875 0 0,0 44.221992271433045,49.91631051866029Z"></path></g><text dy=".35em" class="" transform="translate(-15.760806146962908,63.94410416045418)" style="opacity: 1; text-anchor: middle; pointer-events: none;"></text></g><g class="c3-chart-arc c3-target c3-target-Mobile"><g class=" c3-shapes c3-shapes-Mobile c3-arcs c3-arcs-Mobile"><path class=" c3-shape c3-shape c3-arc c3-arc-Mobile" transform="scale(1,1)" style="fill: rgb(30, 136, 229); cursor: pointer; opacity: 1;" d="M5.308078470054309e-15,-86.6875A86.6875,86.6875 0 0,1 57.484445436248954,64.8865254820823L44.221992271433045,49.91631051866029A66.6875,66.6875 0 0,0 4.083431670906956e-15,-66.6875Z"></path></g><text dy=".35em" class="" transform="translate(61.57812439523056,-23.353502162431003)" style="opacity: 1; text-anchor: middle; pointer-events: none;"></text></g></g><g class="c3-chart-texts"><g class="c3-chart-text c3-target c3-target-Other" style="opacity: 1; pointer-events: none;"><g class=" c3-texts c3-texts-Other"></g></g><g class="c3-chart-text c3-target c3-target-Desktop" style="opacity: 1; pointer-events: none;"><g class=" c3-texts c3-texts-Desktop"></g></g><g class="c3-chart-text c3-target c3-target-Tablet" style="opacity: 1; pointer-events: none;"><g class=" c3-texts c3-texts-Tablet"></g></g><g class="c3-chart-text c3-target c3-target-Mobile" style="opacity: 1; pointer-events: none;"><g class=" c3-texts c3-texts-Mobile"></g></g></g></g><g clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip-grid)" class="c3-grid c3-grid-lines"><g class="c3-xgrid-lines"></g><g class="c3-ygrid-lines"></g></g><g class="c3-axis c3-axis-x" clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip-xaxis)" transform="translate(0,226)" style="visibility: visible; opacity: 0;"><text class="c3-axis-x-label" transform="" style="text-anchor: end;" x="182.5" dx="-0.5em" dy="-0.5em"></text><g class="tick" transform="translate(92, 0)" style="opacity: 1;"><line y2="6" x1="0" x2="0"></line><text y="9" x="0" transform="" style="text-anchor: middle; display: block;"><tspan x="0" dy=".71em" dx="0">0</tspan></text></g><path class="domain" d="M0,6V0H182.5V6"></path></g><g class="c3-axis c3-axis-y" clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip-yaxis)" transform="translate(0,0)" style="visibility: visible; opacity: 0;"><text class="c3-axis-y-label" transform="rotate(-90)" style="text-anchor: end;" x="0" dx="-0.5em" dy="1.2em"></text><g class="tick" transform="translate(0,208)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">10</tspan></text></g><g class="tick" transform="translate(0,184)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">15</tspan></text></g><g class="tick" transform="translate(0,161)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">20</tspan></text></g><g class="tick" transform="translate(0,137)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">25</tspan></text></g><g class="tick" transform="translate(0,114)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">30</tspan></text></g><g class="tick" transform="translate(0,91)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">35</tspan></text></g><g class="tick" transform="translate(0,67)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">40</tspan></text></g><g class="tick" transform="translate(0,44)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">45</tspan></text></g><g class="tick" transform="translate(0,20)" style="opacity: 1;"><line x2="-6"></line><text x="-9" y="0" style="text-anchor: end;"><tspan x="-9" dy="3">50</tspan></text></g><path class="domain" d="M-6,1H0V226H-6"></path></g><g class="c3-axis c3-axis-y2" transform="translate(182.5,0)" style="visibility: hidden; opacity: 0;"><text class="c3-axis-y2-label" transform="rotate(-90)" style="text-anchor: end;" x="0" dx="-0.5em" dy="-0.5em"></text><g class="tick" transform="translate(0,226)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0</tspan></text></g><g class="tick" transform="translate(0,204)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.1</tspan></text></g><g class="tick" transform="translate(0,181)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.2</tspan></text></g><g class="tick" transform="translate(0,159)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.3</tspan></text></g><g class="tick" transform="translate(0,136)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.4</tspan></text></g><g class="tick" transform="translate(0,114)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.5</tspan></text></g><g class="tick" transform="translate(0,91)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.6</tspan></text></g><g class="tick" transform="translate(0,69)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.7</tspan></text></g><g class="tick" transform="translate(0,46)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.8</tspan></text></g><g class="tick" transform="translate(0,24)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">0.9</tspan></text></g><g class="tick" transform="translate(0,1)" style="opacity: 1;"><line x2="6" y2="0"></line><text x="9" y="0" style="text-anchor: start;"><tspan x="9" dy="3">1</tspan></text></g><path class="domain" d="M6,1H0V226H6"></path></g></g><g transform="translate(0.5,250.5)" style="visibility: hidden;"><g clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip-subchart)" class="c3-chart"><g class="c3-chart-bars"></g><g class="c3-chart-lines"></g></g><g clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip)" class="c3-brush" style="pointer-events: all; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><rect class="background" x="0" width="182.5" style="visibility: hidden; cursor: crosshair;"></rect><rect class="extent" x="0" width="0" style="cursor: move;"></rect><g class="resize e" transform="translate(0,0)" style="cursor: ew-resize; display: none;"><rect x="-3" width="6" height="6" style="visibility: hidden;"></rect></g><g class="resize w" transform="translate(0,0)" style="cursor: ew-resize; display: none;"><rect x="-3" width="6" height="6" style="visibility: hidden;"></rect></g></g><g class="c3-axis-x" transform="translate(0,0)" clip-path="url(file:///D:/%E7%BD%91%E4%B8%8A%E4%B8%8B%E8%BD%BD%E7%9A%84%E8%BD%AF%E4%BB%B6/wrap_7_admin-pro/wrap_7_admin-pro/html/index.html#c3-1624700220332-clip-xaxis)" style="visibility: hidden; opacity: 0;"><g class="tick" transform="translate(92, 0)" style="opacity: 1;"><line y2="6" x1="0" x2="0"></line><text y="9" x="0" transform="" style="text-anchor: middle; display: block;"><tspan x="0" dy=".71em" dx="0">0</tspan></text></g><path class="domain" d="M0,6V0H182.5V6"></path></g></g><g transform="translate(0,230)"><g class="c3-legend-item c3-legend-item-Other" style="visibility: hidden; cursor: pointer;"><text x="14" y="9" style="pointer-events: none;">Other</text><rect class="c3-legend-item-event" x="0" y="-5" width="0" height="0" style="fill-opacity: 0;"></rect><line class="c3-legend-item-tile" x1="-2" y1="4" x2="8" y2="4" stroke-width="10" style="stroke: rgb(236, 239, 241); pointer-events: none;"></line></g><g class="c3-legend-item c3-legend-item-Desktop" style="visibility: hidden; cursor: pointer;"><text x="14" y="9" style="pointer-events: none;">Desktop</text><rect class="c3-legend-item-event" x="0" y="-5" width="0" height="0" style="fill-opacity: 0;"></rect><line class="c3-legend-item-tile" x1="-2" y1="4" x2="8" y2="4" stroke-width="10" style="stroke: rgb(116, 90, 242); pointer-events: none;"></line></g><g class="c3-legend-item c3-legend-item-Tablet" style="visibility: hidden; cursor: pointer;"><text x="14" y="9" style="pointer-events: none;">Tablet</text><rect class="c3-legend-item-event" x="0" y="-5" width="0" height="0" style="fill-opacity: 0;"></rect><line class="c3-legend-item-tile" x1="-2" y1="4" x2="8" y2="4" stroke-width="10" style="stroke: rgb(38, 198, 218); pointer-events: none;"></line></g><g class="c3-legend-item c3-legend-item-Mobile" style="visibility: hidden; cursor: pointer;"><text x="14" y="9" style="pointer-events: none;">Mobile</text><rect class="c3-legend-item-event" x="0" y="-5" width="0" height="0" style="fill-opacity: 0;"></rect><line class="c3-legend-item-tile" x1="-2" y1="4" x2="8" y2="4" stroke-width="10" style="stroke: rgb(30, 136, 229); pointer-events: none;"></line></g></g><text class="c3-title" x="91.25" y="0"></text>-->
+<!--									</svg><div class="c3-tooltip-container" style="position: absolute; pointer-events: none; display: none; top: 63.5px; left: 143px;"><table class="c3-tooltip"><tbody><tr class="c3-tooltip-name&#45;&#45;Mobile"><td class="name"><span style="background-color:#1e88e5"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动的</font></font></td><td class="value">38.5%</td>-->
+<!--								</tr>-->
+<!--								</tbody>-->
+<!--								</table>-->
+<!--								</div>-->
+								</div>
+<!--                                <table class="table vm font-14">-->
+<!--                                    <tbody>-->
+<!--									<tr>-->
+<!--                                        <td class="b-0"><font style="vertical-align: inherit;"><font id="ejatjon1" style="vertical-align: inherit;">移动的</font></font></td>-->
+<!--                                        <td id="ejatjon3" class="text-right font-medium b-0">38.5%</td>-->
+<!--                                    </tr>-->
+<!--                                    <tr>-->
+<!--                                        <td><font style="vertical-align: inherit;"><font id="ejatjon2" style="vertical-align: inherit;">药片</font></font></td>-->
+<!--                                        <td class="text-right font-medium">30.8%</td>-->
+<!--                                    </tr>-->
+<!--                                </tbody>-->
+<!--								</table>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- Projects of the month -->
+                <!-- ============================================================== -->
+                <div class="row">
+                    <div class="col-lg-6 col-md-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex">
+                                    <div>
+                                        <h4 class="card-title"><span class="lstick"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本月项目</font></font></h4></div>
+                                </div>
+                                <div class="table-responsive m-t-20">
+                                    <table class="table vm no-th-brd no-wrap pro-of-month">
+                                        <thead>
+                                            <tr>
+                                                <th colspan="2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">已分配</font></font></th>
+                                                <th>Name</th>
+                                                <th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优先事项</font></font></th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td style="width:50px;"><span class="round"><img src="assets/images/users/1.jpg" alt="用户" width="50"></span></td>
+                                                <td>
+                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">苏尼尔·乔希</font></font></h6><small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站设计者</font></font></small></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精英管理员</font></font></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">低的</font></font></td>
+                                            </tr>
+                                            <tr class="active">
+                                                <td><span class="round"><img src="assets/images/users/2.jpg" alt="用户" width="50"></span></td>
+                                                <td>
+                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安德鲁</font></font></h6><small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">专案经理</font></font></small></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">真正的家园</font></font></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中等的</font></font></td>
+                                            </tr>
+                                            <tr>
+                                                <td><span class="round round-success"><img src="assets/images/users/3.jpg" alt="用户" width="50"></span></td>
+                                                <td>
+                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">巴韦什·帕特尔</font></font></h6><small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发商</font></font></small></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MedicalPro 主题</font></font></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高的</font></font></td>
+                                            </tr>
+                                            <tr>
+                                                <td><span class="round round-primary"><img src="assets/images/users/4.jpg" alt="用户" width="50"></span></td>
+                                                <td>
+                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尼拉夫·乔希</font></font></h6><small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端工程师</font></font></small></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精英管理员</font></font></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">低的</font></font></td>
+                                            </tr>
+                                            <tr>
+                                                <td><span class="round round-warning"><img src="assets/images/users/5.jpg" alt="用户" width="50"></span></td>
+                                                <td>
+                                                    <h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">迈克尔·多伊</font></font></h6><small class="text-muted"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容作家</font></font></small></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">伸出援手</font></font></td>
+                                                <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高的</font></font></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- contact -->
+                    <div class="col-lg-6 col-md-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex">
+                                    <h4 class="card-title"><span class="lstick"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的联系方式</font></font></h4>
+                                </div>
+                                <div class="message-box contact-box">
+                                    <div class="message-widget contact-widget">
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="user-img"> <img src="assets/images/users/1.jpg" alt="用户" class="img-circle"> <span class="profile-status online pull-right"></span> </div>
+                                            <div class="mail-contnet">
+                                                <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帕万·库马尔</font></font></h5> <span class="mail-desc">info@website.com</span></div>
+                                        </a>
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="user-img"> <img src="assets/images/users/2.jpg" alt="用户" class="img-circle"> <span class="profile-status busy pull-right"></span> </div>
+                                            <div class="mail-contnet">
+                                                <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">索努·尼加姆</font></font></h5> <span class="mail-desc">pamela1987@gmail.com</span></div>
+                                        </a>
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="user-img"> <span class="round"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一种</font></font></span> <span class="profile-status away pull-right"></span> </div>
+                                            <div class="mail-contnet">
+                                                <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿里吉特·辛格</font></font></h5> <span class="mail-desc">cruise1298.fiplip@gmail.com</span></div>
+                                        </a>
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="user-img"> <img src="assets/images/users/4.jpg" alt="用户" class="img-circle"> <span class="profile-status offline pull-right"></span> </div>
+                                            <div class="mail-contnet">
+                                                <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帕万·库马尔</font></font></h5> <span class="mail-desc">kat@gmail.com</span></div>
+                                        </a>
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="user-img"> <img src="assets/images/users/5.jpg" alt="用户" class="img-circle"> <span class="profile-status offline pull-right"></span> </div>
+                                            <div class="mail-contnet">
+                                                <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安德鲁</font></font></h5> <span class="mail-desc">and@gmail.com</span></div>
+                                        </a>
+                                        <!-- Message -->
+                                        <a href="#">
+                                            <div class="user-img"> <img src="assets/images/users/6.jpg" alt="用户" class="img-circle"> <span class="profile-status offline pull-right"></span> </div>
+                                            <div class="mail-contnet">
+                                                <h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乔纳森·琼斯</font></font></h5> <span class="mail-desc">jj@gmail.com</span></div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- Blog and website visit -->
+                <!-- ============================================================== -->
+                <div class="row">
+                    <div class="col-lg-4 col-xlg-3">
+                        <div class="card">
+                            <img class="card-img-top img-responsive" src="assets/images/big/img1.jpg" alt="卡片图像上限">
+                            <div class="card-body">
+                                <h3 class="font-normal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2017年业务发展规则</font></font></h3>
+                                <span class="label label-info label-rounded"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术</font></font></span>
+                                <p class="m-b-0 m-t-20"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ened 消毒保存本身。</font><font style="vertical-align: inherit;">Ullamcorper 比制造业。</font><font style="vertical-align: inherit;">nenatis 它非常自我和feugiat。</font><font style="vertical-align: inherit;">ibulum ullamcorper</font></font></p>
+                                <div class="d-flex m-t-20">
+                                    <button class="btn p-l-0 btn-link "><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读更多</font></font></button>
+                                    <div class="ml-auto align-self-center">
+                                        <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-heart-o"></i></a>
+                                        <a href="javascript:void(0)" class="link m-r-10"><i class="fa fa-share-alt"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-xlg-9">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex">
+                                    <h4 class="card-title"><span class="lstick"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站访问</font></font></h4>
+                                    <ul class="list-inline m-b-0 ml-auto">
+                                        <li>
+                                            <h6 class="text-muted text-success"><i class="fa fa-circle font-10 m-r-10 "></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">站点 A 视图</font></font></h6> </li>
+                                        <li>
+                                            <h6 class="text-muted text-info"><i class="fa fa-circle font-10 m-r-10"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">站点 B 视图</font></font></h6> </li>
+                                    </ul>
+                                </div>
+                                <div class="website-visitor p-relative m-t-30" style="width:100%;">
+									<div class="chartist-tooltip">
+
+									</div>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Page Content -->
+                <!-- ============================================================== -->
+            </div>
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- footer -->
+            <!-- ============================================================== -->
+            
+            <!-- ============================================================== -->
+            <!-- End footer -->
+            <!-- ============================================================== -->
+        </div>
+	
+
+		<!-- Start footer -->
+		<footer class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="block">
+							<h1 class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公司信息</font></font></h1>
+							<div class="block-body">
+								<figure class="foot-logo">
+									<img src="images/logo-light.png" class="img-responsive" alt="商标">
+								</figure>
+								<p class="brand-description"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+									Magz 是一个基于 Bootstrap 3 的 HTML5 &amp; CSS3 杂志模板。
+								</font></font></p>
+								<a href="page.html" class="btn btn-magz white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于我们 </font></font><i class="ion-ios-arrow-thin-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="block">
+							<h1 class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">热门标签 </font></font><div class="right"><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看全部 </font></font><i class="ion-ios-arrow-thin-right"></i></a></div></h1>
+							<div class="block-body">
+								<ul class="tags">
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML5</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS3</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">引导程序 3</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页设计</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创造性思维</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">站在火车上</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下午 6 点</font></font></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="line"></div>
+						<div class="block">
+							<h1 class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通讯</font></font></h1>
+							<div class="block-body">
+								<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过订阅，您将在电子邮件中收到新文章。</font></font></p>
+								<form class="newsletter">
+									<div class="input-group">
+										<div class="input-group-addon">
+											<i class="ion-ios-email-outline"></i>
+										</div>
+										<input type="email" class="form-control email" placeholder="你的邮件">
+									</div>
+									<button class="btn btn-primary btn-block white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订阅</font></font></button>
+								</form>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12">
+						<div class="block">
+							<h1 class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新消息</font></font></h1>
+							<div class="block-body">
+								<article class="article-mini">
+									<div class="inner">
+										<figure>
+											<a href="single.html">
+												<img src="images/news/img12.jpg" alt="样本文章">
+											</a>
+										</figure>
+										<div class="padding">
+											<h1><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">直到摄影学界任何宣传颤抖</font></font></a></h1>
+										</div>
+									</div>
+								</article>
+								<article class="article-mini">
+									<div class="inner">
+										<figure>
+											<a href="single.html">
+												<img src="images/news/img14.jpg" alt="样本文章">
+											</a>
+										</figure>
+										<div class="padding">
+											<h1><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即使足球蛋白微笑被消毒</font></font></a></h1>
+										</div>
+									</div>
+								</article>
+								<article class="article-mini">
+									<div class="inner">
+										<figure>
+											<a href="single.html">
+												<img src="images/news/img15.jpg" alt="样本文章">
+											</a>
+										</figure>
+										<div class="padding">
+											<h1><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">没有抗氧化剂可以申请怀孕制造 </font></font></a></h1>
+										</div>
+									</div>
+								</article>
+								<article class="article-mini">
+									<div class="inner">
+										<figure>
+											<a href="single.html">
+												<img src="images/news/img16.jpg" alt="样本文章">
+											</a>
+										</figure>
+										<div class="padding">
+											<h1><a href="single.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Proin venenatis Pellentesque arcu vitae </font></font></a></h1>
+										</div>
+									</div>
+								</article>
+								<a href="#" class="btn btn-magz white btn-block"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看全部 </font></font><i class="ion-ios-arrow-thin-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-xs-12 col-sm-6">
+						<div class="block">
+							<h1 class="block-title"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跟着我们</font></font></h1>
+							<div class="block-body">
+								<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关注我们并保持联系以获取最新消息</font></font></p>
+								<ul class="social trp">
+									<li>
+										<a href="#" class="facebook">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-facebook"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="twitter">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-twitter-outline"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="youtube">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-youtube-outline"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="googleplus">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-googleplus"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="instagram">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-instagram-outline"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="tumblr">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-tumblr"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="dribbble">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-dribbble"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="linkedin">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-linkedin"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="skype">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-skype"></i>
+										</a>
+									</li>
+									<li>
+										<a href="#" class="rss">
+											<svg><rect width="0" height="0"></rect></svg>
+											<i class="ion-social-rss"></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="line"></div>
+						<div class="block">
+							<div class="block-body no-margin">
+								<ul class="footer-nav-horizontal">
+									<li><a href="index.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">家</font></font></a></li>
+									<li><a href="#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">伙伴</font></font></a></li>
+									<li><a href="contact.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接触</font></font></a></li>
+									<li><a href="page.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="copyright"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+							版权所有 © MAGZ 2017。保留所有权利。
+							</font></font><div>More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- End Footer -->
+
+
+
+
+
+
+		 <script src="assets/plugins/jquery/jquery.min.js"></script>
+    	<!-- Bootstrap popper Core JavaScript -->
+		<script src="assets/plugins/bootstrap/js/popper.min.js"></script>
+		<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<!-- slimscrollbar scrollbar JavaScript -->
+		<script src="js/perfect-scrollbar.jquery.min.js"></script>
+		<!--Wave Effects -->
+		<script src="js/waves.js"></script>
+		<!--Menu sidebar -->
+		<script src="js/sidebarmenu.js"></script>
+		<!--Custom JavaScript -->
+		<script src="js/custom.min.js"></script>
+		<!-- ============================================================== -->
+		<!-- This page plugins -->
+		<!-- ============================================================== -->
+		<script src="assets/plugins/chartist-js/dist/chartist.min.js"></script>
+		<!-- ============================================================== -->
+		<script src="assets/plugins/chartist-js/dist/chartist.min.js"></script>
+		<script src="assets/plugins/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.min.js"></script>
+		<!--c3 JavaScript -->
+		<script src="assets/plugins/d3/d3.min.js"></script>
+		<script src="assets/plugins/c3-master/c3.min.js"></script>
+		<!-- Chart JS -->
+		<script src="js/dashboard.js"></script>
+		<!-- JS -->
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery.migrate.js"></script>
+		<script src="scripts/bootstrap/bootstrap.min.js"></script>
+		<script>var $target_end=$(".best-of-the-week");</script>
+		<script src="scripts/jquery-number/jquery.number.min.js"></script>
+		<script src="scripts/owlcarousel/dist/owl.carousel.min.js"></script>
+		<script src="scripts/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+		<script src="scripts/easescroll/jquery.easeScroll.js"></script>
+		<script src="scripts/sweetalert/dist/sweetalert.min.js"></script>
+		<script src="scripts/toast/jquery.toast.min.js"></script>
+		<script src="js/demo.js"></script><div class="demo-settings"><div class="demo-settings-toggle"><i class="ion ion-gear-a"></i></div><div class="demo-settings-options"><ul><li class="demo-toggle-skin" style="background-color: #F73F52;" title="默认"></li><li class="demo-toggle-skin" style="background-color: #8e44ad;" title="紫色的"></li><li class="demo-toggle-skin" style="background-color: #626EEF;" title="蓝色的"></li><li class="demo-toggle-skin" style="background-color: #FC624D;" title="橙子"></li></ul></div></div>
+		<script src="js/e-magz.js"></script><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google 翻译"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">原文</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">提供更好的翻译建议</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+	
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>
