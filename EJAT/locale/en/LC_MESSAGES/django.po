@@ -1,0 +1,1566 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: .\apps\about_us\gettext.py:2 .\apps\category\gettext.py:2
+#: .\apps\contact\gettext.py:3 .\apps\forget\gettext.py:3
+#: .\apps\index\gettext.py:2 .\apps\login\gettext.py:2
+#: .\apps\public\gettext.py:4 .\apps\register\gettext.py:2
+#: .\apps\reset\gettext.py:2 .\apps\search\gettext.py:2
+#: .\apps\single\gettext.py:4
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-25 21:23+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\apps\about_us\gettext.py:3 .\apps\category\gettext.py:62
+#: .\apps\contact\gettext.py:34 .\apps\forget\gettext.py:90
+#: .\apps\login\gettext.py:24 .\apps\public\gettext.py:46
+#: .\apps\register\gettext.py:8 .\apps\reset\gettext.py:76
+#: .\apps\search\gettext.py:91 .\apps\single\gettext.py:25
+msgid "Example 8"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:4 .\apps\category\gettext.py:111
+#: .\apps\contact\gettext.py:57 .\apps\forget\gettext.py:7
+#: .\apps\login\gettext.py:21 .\apps\public\gettext.py:80
+#: .\apps\register\gettext.py:116 .\apps\reset\gettext.py:68
+#: .\apps\search\gettext.py:11 .\apps\single\gettext.py:82
+msgid " Change Password"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:5 .\apps\category\gettext.py:22
+#: .\apps\contact\gettext.py:64 .\apps\forget\gettext.py:61
+#: .\apps\login\gettext.py:53 .\apps\public\gettext.py:28
+#: .\apps\register\gettext.py:90 .\apps\reset\gettext.py:54
+#: .\apps\search\gettext.py:113 .\apps\single\gettext.py:29
+msgid "Reset Password"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:6 .\apps\category\gettext.py:60
+#: .\apps\contact\gettext.py:37 .\apps\forget\gettext.py:76
+#: .\apps\login\gettext.py:70 .\apps\public\gettext.py:115
+#: .\apps\register\gettext.py:114 .\apps\reset\gettext.py:85
+#: .\apps\search\gettext.py:30 .\apps\single\gettext.py:14
+msgid "Hardware "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:7 .\apps\category\gettext.py:44
+#: .\apps\contact\gettext.py:27 .\apps\forget\gettext.py:5
+#: .\apps\login\gettext.py:44 .\apps\public\gettext.py:17
+#: .\apps\register\gettext.py:115 .\apps\reset\gettext.py:14
+#: .\apps\search\gettext.py:99 .\apps\single\gettext.py:108
+msgid "Framework 7"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:8 .\apps\category\gettext.py:68
+#: .\apps\contact\gettext.py:49 .\apps\forget\gettext.py:96
+#: .\apps\login\gettext.py:7 .\apps\public\gettext.py:87
+#: .\apps\register\gettext.py:20 .\apps\reset\gettext.py:120
+#: .\apps\search\gettext.py:59 .\apps\single\gettext.py:106
+msgid "500"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:9 .\apps\category\gettext.py:100
+#: .\apps\contact\gettext.py:50 .\apps\forget\gettext.py:27
+#: .\apps\login\gettext.py:31 .\apps\public\gettext.py:39
+#: .\apps\register\gettext.py:77 .\apps\reset\gettext.py:87
+#: .\apps\search\gettext.py:48 .\apps\single\gettext.py:15
+msgid "Standing On The Train"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:10 .\apps\category\gettext.py:23
+#: .\apps\contact\gettext.py:90 .\apps\forget\gettext.py:119
+#: .\apps\login\gettext.py:92 .\apps\public\gettext.py:121
+#: .\apps\register\gettext.py:72 .\apps\reset\gettext.py:22
+#: .\apps\search\gettext.py:122 .\apps\single\gettext.py:130
+msgid "Lifestyle"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:11 .\apps\category\gettext.py:47
+#: .\apps\contact\gettext.py:25 .\apps\forget\gettext.py:64
+#: .\apps\index\gettext.py:23 .\apps\login\gettext.py:115
+#: .\apps\public\gettext.py:25 .\apps\register\gettext.py:14
+#: .\apps\reset\gettext.py:109 .\apps\search\gettext.py:106
+#: .\apps\single\gettext.py:163
+msgid "See All "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:12 .\apps\contact\gettext.py:87
+#: .\apps\forget\gettext.py:104 .\apps\login\gettext.py:128
+#: .\apps\public\gettext.py:97 .\apps\register\gettext.py:99
+#: .\apps\reset\gettext.py:40 .\apps\search\gettext.py:79
+#: .\apps\single\gettext.py:35
+msgid "eu dapibus risus aliquam etiam ut venenatis"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:13 .\apps\category\gettext.py:106
+#: .\apps\contact\gettext.py:61 .\apps\forget\gettext.py:33
+#: .\apps\login\gettext.py:75 .\apps\public\gettext.py:20
+#: .\apps\register\gettext.py:26 .\apps\reset\gettext.py:92
+#: .\apps\search\gettext.py:119 .\apps\single\gettext.py:156
+msgid "Dropdown "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:14 .\apps\category\gettext.py:53
+#: .\apps\contact\gettext.py:2 .\apps\forget\gettext.py:94
+#: .\apps\login\gettext.py:8 .\apps\public\gettext.py:7
+#: .\apps\register\gettext.py:58 .\apps\reset\gettext.py:62
+#: .\apps\search\gettext.py:108 .\apps\single\gettext.py:36
+msgid "Ionic Framework 2"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:15 .\apps\category\gettext.py:94
+#: .\apps\contact\gettext.py:72 .\apps\forget\gettext.py:81
+#: .\apps\login\gettext.py:72 .\apps\public\gettext.py:29
+#: .\apps\register\gettext.py:31 .\apps\reset\gettext.py:18
+#: .\apps\search\gettext.py:49 .\apps\single\gettext.py:141
+msgid "Web Design"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:16 .\apps\contact\gettext.py:16
+#: .\apps\forget\gettext.py:107 .\apps\login\gettext.py:61
+#: .\apps\public\gettext.py:65 .\apps\register\gettext.py:71
+#: .\apps\reset\gettext.py:36 .\apps\search\gettext.py:78
+#: .\apps\single\gettext.py:107
+msgid "Proin venenatis pellentesque arcu vitae "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:17 .\apps\category\gettext.py:43
+#: .\apps\contact\gettext.py:123 .\apps\forget\gettext.py:99
+#: .\apps\login\gettext.py:16 .\apps\public\gettext.py:3
+#: .\apps\register\gettext.py:68 .\apps\reset\gettext.py:56
+#: .\apps\search\gettext.py:105 .\apps\single\gettext.py:76
+msgid "Example 18"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:18 .\apps\category\gettext.py:99
+#: .\apps\contact\gettext.py:22 .\apps\forget\gettext.py:68
+#: .\apps\login\gettext.py:5 .\apps\public\gettext.py:111
+#: .\apps\register\gettext.py:122 .\apps\reset\gettext.py:70
+#: .\apps\search\gettext.py:93 .\apps\single\gettext.py:124
+msgid "HTML5"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:19
+msgid ""
+" \t\t\t\t\t\t\t\tNulla ante nulla, aliquet vel gravida non, finibus vel "
+"eros. Vestibulum lectus augue, placerat ac tincidunt rhoncus, vehicula ac "
+"tellus. Nullam a cursus ipsum. Pellentesque ornare mi sit amet nibh euismod "
+"gravida. Quisque in tempus odio. Fusce porttitor dolor ut tortor tristique, "
+"ut rhoncus nunc cursus. Morbi placerat lorem vel dictum maximus. Vivamus at "
+"sollicitudin turpis. Sed eu porta sem, et elementum tellus. \t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:20 .\apps\category\gettext.py:26
+#: .\apps\contact\gettext.py:28 .\apps\forget\gettext.py:105
+#: .\apps\login\gettext.py:87 .\apps\public\gettext.py:38
+#: .\apps\register\gettext.py:28 .\apps\reset\gettext.py:80
+#: .\apps\search\gettext.py:90 .\apps\single\gettext.py:10
+msgid "Subscribe"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:21 .\apps\category\gettext.py:122
+#: .\apps\contact\gettext.py:31 .\apps\forget\gettext.py:66
+#: .\apps\login\gettext.py:66 .\apps\public\gettext.py:57
+#: .\apps\reset\gettext.py:33 .\apps\search\gettext.py:77
+#: .\apps\single\gettext.py:32
+msgid ""
+" \t\t\t\t\t\t\t\t\tMagz is a HTML5 &amp; CSS3 magazine template based on "
+"Bootstrap 3. \t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:22 .\apps\category\gettext.py:11
+#: .\apps\contact\gettext.py:60 .\apps\forget\gettext.py:46
+#: .\apps\login\gettext.py:63 .\apps\public\gettext.py:54
+#: .\apps\register\gettext.py:107 .\apps\reset\gettext.py:24
+#: .\apps\search\gettext.py:44 .\apps\single\gettext.py:45
+msgid "Forgot Password"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:23 .\apps\category\gettext.py:49
+#: .\apps\contact\gettext.py:69 .\apps\forget\gettext.py:121
+#: .\apps\login\gettext.py:80 .\apps\public\gettext.py:120
+#: .\apps\register\gettext.py:32 .\apps\reset\gettext.py:21
+#: .\apps\search\gettext.py:31 .\apps\single\gettext.py:70
+msgid "Mega Menu "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:24 .\apps\category\gettext.py:35
+#: .\apps\contact\gettext.py:86 .\apps\forget\gettext.py:70
+#: .\apps\login\gettext.py:20 .\apps\public\gettext.py:2
+#: .\apps\register\gettext.py:11 .\apps\reset\gettext.py:104
+#: .\apps\search\gettext.py:80 .\apps\single\gettext.py:61
+msgid "Example 3"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:25 .\apps\category\gettext.py:58
+#: .\apps\contact\gettext.py:71 .\apps\forget\gettext.py:12
+#: .\apps\login\gettext.py:108 .\apps\public\gettext.py:50
+#: .\apps\register\gettext.py:7 .\apps\reset\gettext.py:122
+#: .\apps\search\gettext.py:22 .\apps\single\gettext.py:26
+msgid "Example 14"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:26
+msgid ""
+" \t\t\t\t\t\t\t\tNulla facilisi. Donec mollis laoreet diam. Nullam suscipit "
+"pretium turpis at pellentesque. Donec suscipit libero nec pellentesque "
+"fringilla. Etiam dictum ut nulla eu vehicula. Nullam sed ultricies nisi. "
+"Etiam dapibus diam vitae gravida sagittis. \t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:27 .\apps\category\gettext.py:69
+#: .\apps\contact\gettext.py:81 .\apps\forget\gettext.py:34
+#: .\apps\login\gettext.py:102 .\apps\public\gettext.py:100
+#: .\apps\register\gettext.py:17 .\apps\reset\gettext.py:53
+#: .\apps\search\gettext.py:33 .\apps\single\gettext.py:111
+msgid "Desktop"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:28 .\apps\category\gettext.py:19
+#: .\apps\contact\gettext.py:39 .\apps\forget\gettext.py:116
+#: .\apps\login\gettext.py:119 .\apps\public\gettext.py:6
+#: .\apps\register\gettext.py:111 .\apps\reset\gettext.py:20
+#: .\apps\search\gettext.py:111 .\apps\single\gettext.py:157
+msgid "Main Board"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:29 .\apps\category\gettext.py:121
+#: .\apps\contact\gettext.py:6 .\apps\forget\gettext.py:40
+#: .\apps\login\gettext.py:14 .\apps\public\gettext.py:18
+#: .\apps\reset\gettext.py:99 .\apps\search\gettext.py:121
+#: .\apps\single\gettext.py:109
+msgid " For a submenu item"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:30 .\apps\category\gettext.py:18
+#: .\apps\contact\gettext.py:63 .\apps\forget\gettext.py:115
+#: .\apps\login\gettext.py:3 .\apps\public\gettext.py:10
+#: .\apps\register\gettext.py:41 .\apps\reset\gettext.py:35
+#: .\apps\search\gettext.py:123 .\apps\single\gettext.py:133
+msgid "Partner"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:31 .\apps\contact\gettext.py:38
+#: .\apps\forget\gettext.py:16 .\apps\login\gettext.py:37
+#: .\apps\public\gettext.py:72 .\apps\register\gettext.py:13
+#: .\apps\reset\gettext.py:12 .\apps\search\gettext.py:24
+#: .\apps\single\gettext.py:3
+msgid "Donec consequat lorem quis augue pharetra"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:32 .\apps\category\gettext.py:67
+#: .\apps\contact\gettext.py:109 .\apps\forget\gettext.py:124
+#: .\apps\login\gettext.py:88 .\apps\public\gettext.py:89
+#: .\apps\register\gettext.py:113 .\apps\reset\gettext.py:39
+#: .\apps\search\gettext.py:36 .\apps\single\gettext.py:88
+msgid "Power Supply"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:33 .\apps\category\gettext.py:98
+#: .\apps\contact\gettext.py:79 .\apps\forget\gettext.py:57
+#: .\apps\login\gettext.py:109 .\apps\public\gettext.py:88
+#: .\apps\register\gettext.py:104 .\apps\reset\gettext.py:91
+#: .\apps\search\gettext.py:64 .\apps\single\gettext.py:57
+msgid "Example 1"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:34
+msgid "Ullamco Laboris"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:35
+msgid "Fermentum"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:36 .\apps\category\gettext.py:70
+#: .\apps\contact\gettext.py:68 .\apps\forget\gettext.py:8
+#: .\apps\login\gettext.py:113 .\apps\public\gettext.py:55
+#: .\apps\register\gettext.py:92 .\apps\reset\gettext.py:8
+#: .\apps\search\gettext.py:32 .\apps\single\gettext.py:11
+msgid "Example 2"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:37 .\apps\category\gettext.py:52
+#: .\apps\contact\gettext.py:30 .\apps\forget\gettext.py:123
+#: .\apps\login\gettext.py:83 .\apps\public\gettext.py:22
+#: .\apps\register\gettext.py:84 .\apps\reset\gettext.py:98
+#: .\apps\search\gettext.py:19 .\apps\single\gettext.py:33
+msgid "Dropdown Icons "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:38 .\apps\category\gettext.py:114
+#: .\apps\forget\gettext.py:20 .\apps\login\gettext.py:33
+#: .\apps\register\gettext.py:42 .\apps\reset\gettext.py:5
+#: .\apps\search\gettext.py:53 .\apps\single\gettext.py:150
+msgid "Popular:"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:39 .\apps\category\gettext.py:83
+#: .\apps\contact\gettext.py:62 .\apps\forget\gettext.py:110
+#: .\apps\login\gettext.py:34 .\apps\public\gettext.py:102
+#: .\apps\register\gettext.py:25 .\apps\reset\gettext.py:95
+#: .\apps\search\gettext.py:89 .\apps\single\gettext.py:5
+msgid "jQuery"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:40 .\apps\category\gettext.py:34
+#: .\apps\contact\gettext.py:70 .\apps\forget\gettext.py:48
+#: .\apps\index\gettext.py:18 .\apps\login\gettext.py:78
+#: .\apps\public\gettext.py:45 .\apps\register\gettext.py:67
+#: .\apps\reset\gettext.py:4 .\apps\search\gettext.py:17
+#: .\apps\single\gettext.py:159
+msgid "Latest News"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:41 .\apps\category\gettext.py:3
+#: .\apps\contact\gettext.py:26 .\apps\forget\gettext.py:101
+#: .\apps\login\gettext.py:64 .\apps\public\gettext.py:92
+#: .\apps\register\gettext.py:45 .\apps\reset\gettext.py:50
+#: .\apps\search\gettext.py:82 .\apps\single\gettext.py:144
+msgid "Programming "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:42 .\apps\category\gettext.py:9
+#: .\apps\contact\gettext.py:65 .\apps\forget\gettext.py:100
+#: .\apps\login\gettext.py:114 .\apps\public\gettext.py:66
+#: .\apps\register\gettext.py:21 .\apps\reset\gettext.py:23
+#: .\apps\search\gettext.py:112 .\apps\single\gettext.py:17
+msgid "Magz &mdash; Responsive HTML5 &amp; CSS3 Magazine Template"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:43 .\apps\category\gettext.py:20
+#: .\apps\contact\gettext.py:47 .\apps\forget\gettext.py:60
+#: .\apps\login\gettext.py:26 .\apps\public\gettext.py:40
+#: .\apps\register\gettext.py:47 .\apps\reset\gettext.py:25
+#: .\apps\search\gettext.py:128 .\apps\single\gettext.py:6
+msgid "Example 12"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:44 .\apps\category\gettext.py:28
+#: .\apps\contact\gettext.py:119 .\apps\forget\gettext.py:98
+#: .\apps\login\gettext.py:129 .\apps\public\gettext.py:95
+#: .\apps\register\gettext.py:127 .\apps\reset\gettext.py:114
+#: .\apps\search\gettext.py:14 .\apps\single\gettext.py:125
+msgid " My Account"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:45 .\apps\category\gettext.py:37
+#: .\apps\contact\gettext.py:116 .\apps\forget\gettext.py:122
+#: .\apps\login\gettext.py:52 .\apps\public\gettext.py:33
+#: .\apps\register\gettext.py:74 .\apps\reset\gettext.py:47
+#: .\apps\search\gettext.py:61 .\apps\single\gettext.py:146
+msgid "Follow us and stay in touch to get the latest news"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:46 .\apps\category\gettext.py:45
+#: .\apps\contact\gettext.py:103 .\apps\forget\gettext.py:47
+#: .\apps\login\gettext.py:95 .\apps\public\gettext.py:123
+#: .\apps\register\gettext.py:118 .\apps\reset\gettext.py:11
+#: .\apps\search\gettext.py:50 .\apps\single\gettext.py:93
+msgid " Settings"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:47 .\apps\category\gettext.py:86
+#: .\apps\contact\gettext.py:14 .\apps\forget\gettext.py:86
+#: .\apps\login\gettext.py:23 .\apps\public\gettext.py:27
+#: .\apps\reset\gettext.py:110 .\apps\search\gettext.py:3
+#: .\apps\single\gettext.py:52
+msgid " - Collect from "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:48 .\apps\category\gettext.py:108
+#: .\apps\contact\gettext.py:112 .\apps\forget\gettext.py:59
+#: .\apps\login\gettext.py:71 .\apps\public\gettext.py:23
+#: .\apps\register\gettext.py:50 .\apps\reset\gettext.py:61
+#: .\apps\search\gettext.py:29 .\apps\single\gettext.py:162
+msgid "Example 19"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:49 .\apps\category\gettext.py:118
+#: .\apps\contact\gettext.py:13 .\apps\forget\gettext.py:14
+#: .\apps\login\gettext.py:12 .\apps\public\gettext.py:106
+#: .\apps\register\gettext.py:37 .\apps\reset\gettext.py:7
+#: .\apps\search\gettext.py:6 .\apps\single\gettext.py:118
+msgid "Follow Us"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:50 .\apps\category\gettext.py:46
+#: .\apps\contact\gettext.py:45 .\apps\forget\gettext.py:54
+#: .\apps\login\gettext.py:127 .\apps\public\gettext.py:61
+#: .\apps\register\gettext.py:5 .\apps\reset\gettext.py:67
+#: .\apps\search\gettext.py:104 .\apps\single\gettext.py:47
+msgid "Error "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:51 .\apps\category\gettext.py:119
+#: .\apps\contact\gettext.py:23 .\apps\forget\gettext.py:95
+#: .\apps\login\gettext.py:124 .\apps\public\gettext.py:49
+#: .\apps\register\gettext.py:110 .\apps\reset\gettext.py:10
+#: .\apps\search\gettext.py:130 .\apps\single\gettext.py:28
+msgid "Ionic Framework 3"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:52 .\apps\category\gettext.py:73
+#: .\apps\contact\gettext.py:58 .\apps\forget\gettext.py:35
+#: .\apps\login\gettext.py:90 .\apps\public\gettext.py:82
+#: .\apps\register\gettext.py:23 .\apps\reset\gettext.py:103
+#: .\apps\search\gettext.py:115 .\apps\single\gettext.py:27
+msgid "Troubleshoot "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:53 .\apps\category\gettext.py:109
+#: .\apps\contact\gettext.py:29 .\apps\forget\gettext.py:117
+#: .\apps\login\gettext.py:93 .\apps\public\gettext.py:62
+#: .\apps\register\gettext.py:60 .\apps\reset\gettext.py:46
+#: .\apps\search\gettext.py:109 .\apps\single\gettext.py:79
+msgid "Office"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:54 .\apps\category\gettext.py:31
+#: .\apps\contact\gettext.py:66 .\apps\forget\gettext.py:77
+#: .\apps\login\gettext.py:46 .\apps\public\gettext.py:74
+#: .\apps\register\gettext.py:3 .\apps\reset\gettext.py:121
+#: .\apps\search\gettext.py:92 .\apps\single\gettext.py:85
+msgid "About Us "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:55 .\apps\category\gettext.py:16
+#: .\apps\contact\gettext.py:83 .\apps\forget\gettext.py:28
+#: .\apps\login\gettext.py:96 .\apps\public\gettext.py:16
+#: .\apps\register\gettext.py:4 .\apps\reset\gettext.py:59
+#: .\apps\search\gettext.py:38 .\apps\single\gettext.py:77
+msgid "RAM"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:56 .\apps\category\gettext.py:59
+#: .\apps\contact\gettext.py:4 .\apps\forget\gettext.py:71
+#: .\apps\login\gettext.py:45 .\apps\public\gettext.py:68
+#: .\apps\register\gettext.py:27 .\apps\reset\gettext.py:113
+#: .\apps\search\gettext.py:56 .\apps\single\gettext.py:43
+msgid "Trending"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:57 .\apps\category\gettext.py:10
+#: .\apps\contact\gettext.py:73 .\apps\forget\gettext.py:32
+#: .\apps\login\gettext.py:50 .\apps\public\gettext.py:19
+#: .\apps\register\gettext.py:86 .\apps\reset\gettext.py:64
+#: .\apps\search\gettext.py:43 .\apps\single\gettext.py:131
+msgid "Example 4"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:58 .\apps\category\gettext.py:40
+#: .\apps\contact\gettext.py:118 .\apps\forget\gettext.py:44
+#: .\apps\login\gettext.py:74 .\apps\public\gettext.py:53
+#: .\apps\register\gettext.py:108 .\apps\reset\gettext.py:3
+#: .\apps\search\gettext.py:46 .\apps\single\gettext.py:75
+msgid "About"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:59 .\apps\category\gettext.py:115
+#: .\apps\contact\gettext.py:11 .\apps\forget\gettext.py:73
+#: .\apps\login\gettext.py:40 .\apps\public\gettext.py:78
+#: .\apps\register\gettext.py:73 .\apps\reset\gettext.py:111
+#: .\apps\search\gettext.py:40 .\apps\single\gettext.py:152
+msgid "More Templates "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:60 .\apps\category\gettext.py:8
+#: .\apps\contact\gettext.py:93 .\apps\forget\gettext.py:30
+#: .\apps\login\gettext.py:111 .\apps\public\gettext.py:9
+#: .\apps\register\gettext.py:80 .\apps\reset\gettext.py:63
+#: .\apps\search\gettext.py:35 .\apps\single\gettext.py:8
+msgid "Creative Mind"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:61 .\apps\category\gettext.py:42
+#: .\apps\contact\gettext.py:8 .\apps\forget\gettext.py:31
+#: .\apps\login\gettext.py:84 .\apps\public\gettext.py:84
+#: .\apps\register\gettext.py:126 .\apps\reset\gettext.py:73
+#: .\apps\search\gettext.py:7 .\apps\single\gettext.py:78
+msgid "模板之家"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:62 .\apps\category\gettext.py:77
+#: .\apps\contact\gettext.py:12 .\apps\forget\gettext.py:83
+#: .\apps\login\gettext.py:30 .\apps\public\gettext.py:32
+#: .\apps\register\gettext.py:35 .\apps\reset\gettext.py:79
+#: .\apps\search\gettext.py:41 .\apps\single\gettext.py:68
+msgid "Example 17"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:63 .\apps\category\gettext.py:17
+#: .\apps\contact\gettext.py:102 .\apps\forget\gettext.py:36
+#: .\apps\login\gettext.py:42 .\apps\public\gettext.py:63
+#: .\apps\register\gettext.py:62 .\apps\reset\gettext.py:30
+#: .\apps\search\gettext.py:67 .\apps\single\gettext.py:54
+msgid "Page"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:64 .\apps\contact\gettext.py:59
+#: .\apps\forget\gettext.py:25 .\apps\login\gettext.py:125
+#: .\apps\public\gettext.py:5 .\apps\register\gettext.py:52
+#: .\apps\reset\gettext.py:37 .\apps\search\gettext.py:103
+#: .\apps\single\gettext.py:119
+msgid "Nulla facilisis odio quis gravida vestibulum "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:65 .\apps\category\gettext.py:90
+#: .\apps\contact\gettext.py:36 .\apps\forget\gettext.py:112
+#: .\apps\login\gettext.py:130 .\apps\public\gettext.py:112
+#: .\apps\register\gettext.py:76 .\apps\reset\gettext.py:123
+#: .\apps\search\gettext.py:57 .\apps\single\gettext.py:34
+msgid " You can add"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:66 .\apps\category\gettext.py:107
+#: .\apps\contact\gettext.py:82 .\apps\forget\gettext.py:113
+#: .\apps\login\gettext.py:28 .\apps\public\gettext.py:122
+#: .\apps\register\gettext.py:33 .\apps\reset\gettext.py:94
+#: .\apps\search\gettext.py:120 .\apps\single\gettext.py:100
+msgid " Your own items"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:67 .\apps\category\gettext.py:13
+#: .\apps\contact\gettext.py:121 .\apps\forget\gettext.py:126
+#: .\apps\login\gettext.py:9 .\apps\public\gettext.py:59
+#: .\apps\register\gettext.py:38 .\apps\reset\gettext.py:51
+#: .\apps\search\gettext.py:125 .\apps\single\gettext.py:80
+msgid "December 10, 2016"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:68 .\apps\category\gettext.py:32
+#: .\apps\contact\gettext.py:33 .\apps\forget\gettext.py:118
+#: .\apps\login\gettext.py:123 .\apps\public\gettext.py:98
+#: .\apps\register\gettext.py:88 .\apps\reset\gettext.py:17
+#: .\apps\search\gettext.py:21 .\apps\single\gettext.py:40
+msgid "Category"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:69 .\apps\category\gettext.py:15
+#: .\apps\contact\gettext.py:100 .\apps\forget\gettext.py:89
+#: .\apps\login\gettext.py:48 .\apps\public\gettext.py:24
+#: .\apps\register\gettext.py:82 .\apps\reset\gettext.py:84
+#: .\apps\search\gettext.py:101 .\apps\single\gettext.py:134
+msgid "503"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:70 .\apps\category\gettext.py:113
+#: .\apps\contact\gettext.py:56 .\apps\forget\gettext.py:114
+#: .\apps\login\gettext.py:122 .\apps\public\gettext.py:51
+#: .\apps\register\gettext.py:53 .\apps\reset\gettext.py:69
+#: .\apps\search\gettext.py:88 .\apps\single\gettext.py:110
+msgid "Example 10"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:71 .\apps\category\gettext.py:81
+#: .\apps\contact\gettext.py:43 .\apps\forget\gettext.py:19
+#: .\apps\login\gettext.py:49 .\apps\register\gettext.py:101
+#: .\apps\reset\gettext.py:9 .\apps\search\gettext.py:37
+#: .\apps\single\gettext.py:42
+msgid "Menu"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:72 .\apps\category\gettext.py:101
+#: .\apps\contact\gettext.py:76 .\apps\forget\gettext.py:65
+#: .\apps\login\gettext.py:36 .\apps\public\gettext.py:104
+#: .\apps\register\gettext.py:36 .\apps\reset\gettext.py:90
+#: .\apps\search\gettext.py:83 .\apps\single\gettext.py:122
+msgid "Contact"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:73 .\apps\category\gettext.py:64
+#: .\apps\contact\gettext.py:124 .\apps\forget\gettext.py:21
+#: .\apps\login\gettext.py:11 .\apps\public\gettext.py:58
+#: .\apps\register\gettext.py:120 .\apps\reset\gettext.py:118
+#: .\apps\search\gettext.py:4 .\apps\single\gettext.py:16
+msgid "Home"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:74 .\apps\category\gettext.py:7
+#: .\apps\contact\gettext.py:15 .\apps\forget\gettext.py:84
+#: .\apps\login\gettext.py:56 .\apps\public\gettext.py:79
+#: .\apps\reset\gettext.py:97 .\apps\search\gettext.py:66
+#: .\apps\single\gettext.py:103
+msgid "Duis aute irure dolor in reprehenderit in voluptate"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:75 .\apps\category\gettext.py:124
+#: .\apps\contact\gettext.py:78 .\apps\forget\gettext.py:75
+#: .\apps\login\gettext.py:85 .\apps\public\gettext.py:8
+#: .\apps\register\gettext.py:102 .\apps\reset\gettext.py:116
+#: .\apps\search\gettext.py:8 .\apps\single\gettext.py:127
+msgid "Mobile "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:76 .\apps\category\gettext.py:36
+#: .\apps\contact\gettext.py:111 .\apps\forget\gettext.py:9
+#: .\apps\login\gettext.py:82 .\apps\public\gettext.py:42
+#: .\apps\register\gettext.py:91 .\apps\reset\gettext.py:34
+#: .\apps\search\gettext.py:63 .\apps\single\gettext.py:145
+msgid "Column 4"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:77
+msgid "Contact Us"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:78 .\apps\category\gettext.py:120
+#: .\apps\contact\gettext.py:96 .\apps\forget\gettext.py:109
+#: .\apps\login\gettext.py:91 .\apps\public\gettext.py:113
+#: .\apps\register\gettext.py:83 .\apps\reset\gettext.py:107
+#: .\apps\search\gettext.py:98 .\apps\single\gettext.py:74
+msgid "Software"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:79 .\apps\category\gettext.py:79
+#: .\apps\contact\gettext.py:53 .\apps\forget\gettext.py:58
+#: .\apps\login\gettext.py:57 .\apps\public\gettext.py:35
+#: .\apps\register\gettext.py:128 .\apps\reset\gettext.py:26
+#: .\apps\search\gettext.py:54 .\apps\single\gettext.py:161
+msgid " Comments"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:80 .\apps\category\gettext.py:29
+#: .\apps\contact\gettext.py:117 .\apps\forget\gettext.py:4
+#: .\apps\login\gettext.py:89 .\apps\public\gettext.py:34
+#: .\apps\register\gettext.py:18 .\apps\reset\gettext.py:41
+#: .\apps\search\gettext.py:96 .\apps\single\gettext.py:143
+msgid "at 6.00PM"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:81 .\apps\category\gettext.py:6
+#: .\apps\contact\gettext.py:107 .\apps\forget\gettext.py:50
+#: .\apps\login\gettext.py:39 .\apps\public\gettext.py:41
+#: .\apps\register\gettext.py:125 .\apps\reset\gettext.py:77
+#: .\apps\search\gettext.py:74 .\apps\single\gettext.py:67
+msgid "Register"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:82 .\apps\category\gettext.py:12
+#: .\apps\contact\gettext.py:19 .\apps\forget\gettext.py:52
+#: .\apps\login\gettext.py:4 .\apps\public\gettext.py:12
+#: .\apps\register\gettext.py:66 .\apps\reset\gettext.py:57
+#: .\apps\search\gettext.py:127 .\apps\single\gettext.py:18
+msgid "CSS3"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:83 .\apps\category\gettext.py:96
+#: .\apps\contact\gettext.py:24 .\apps\forget\gettext.py:80
+#: .\apps\login\gettext.py:13 .\apps\public\gettext.py:43
+#: .\apps\register\gettext.py:85 .\apps\reset\gettext.py:83
+#: .\apps\search\gettext.py:39 .\apps\single\gettext.py:154
+msgid "Hot"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:84 .\apps\category\gettext.py:56
+#: .\apps\contact\gettext.py:95 .\apps\forget\gettext.py:93
+#: .\apps\login\gettext.py:106 .\apps\public\gettext.py:30
+#: .\apps\register\gettext.py:63 .\apps\reset\gettext.py:81
+#: .\apps\search\gettext.py:97 .\apps\single\gettext.py:62
+msgid "Login"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:85 .\apps\category\gettext.py:75
+#: .\apps\contact\gettext.py:97 .\apps\forget\gettext.py:2
+#: .\apps\login\gettext.py:65 .\apps\public\gettext.py:83
+#: .\apps\register\gettext.py:9 .\apps\reset\gettext.py:108
+#: .\apps\search\gettext.py:116 .\apps\single\gettext.py:48
+msgid "Column 1"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:86 .\apps\category\gettext.py:88
+#: .\apps\contact\gettext.py:114 .\apps\forget\gettext.py:79
+#: .\apps\login\gettext.py:86 .\apps\public\gettext.py:114
+#: .\apps\register\gettext.py:15 .\apps\reset\gettext.py:72
+#: .\apps\search\gettext.py:70 .\apps\single\gettext.py:63
+msgid "Ionic Framework 1"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:87 .\apps\category\gettext.py:72
+#: .\apps\contact\gettext.py:7 .\apps\forget\gettext.py:39
+#: .\apps\login\gettext.py:38 .\apps\public\gettext.py:119
+#: .\apps\register\gettext.py:43 .\apps\reset\gettext.py:43
+#: .\apps\search\gettext.py:117 .\apps\single\gettext.py:73
+msgid "Example 7"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:88 .\apps\category\gettext.py:14
+#: .\apps\contact\gettext.py:92 .\apps\forget\gettext.py:29
+#: .\apps\login\gettext.py:19 .\apps\public\gettext.py:31
+#: .\apps\reset\gettext.py:96 .\apps\search\gettext.py:72
+#: .\apps\single\gettext.py:24
+msgid " This is an example"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:89 .\apps\category\gettext.py:55
+#: .\apps\contact\gettext.py:51 .\apps\forget\gettext.py:56
+#: .\apps\login\gettext.py:18 .\apps\public\gettext.py:14
+#: .\apps\register\gettext.py:30 .\apps\reset\gettext.py:58
+#: .\apps\search\gettext.py:51 .\apps\single\gettext.py:20
+msgid "Pages "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:90 .\apps\category\gettext.py:71
+#: .\apps\contact\gettext.py:41 .\apps\forget\gettext.py:11
+#: .\apps\login\gettext.py:43 .\apps\public\gettext.py:13
+#: .\apps\register\gettext.py:65 .\apps\reset\gettext.py:52
+#: .\apps\search\gettext.py:73 .\apps\single\gettext.py:31
+msgid "Column "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:91 .\apps\category\gettext.py:93
+#: .\apps\contact\gettext.py:98 .\apps\forget\gettext.py:67
+#: .\apps\login\gettext.py:107 .\apps\public\gettext.py:86
+#: .\apps\register\gettext.py:98 .\apps\reset\gettext.py:93
+#: .\apps\search\gettext.py:52 .\apps\single\gettext.py:23
+msgid "Bootstrap 3"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:92 .\apps\category\gettext.py:57
+#: .\apps\contact\gettext.py:44 .\apps\forget\gettext.py:17
+#: .\apps\login\gettext.py:68 .\apps\register\gettext.py:105
+#: .\apps\reset\gettext.py:66 .\apps\search\gettext.py:81
+#: .\apps\single\gettext.py:9
+msgid "Standard"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:93 .\apps\category\gettext.py:85
+#: .\apps\contact\gettext.py:94 .\apps\forget\gettext.py:23
+#: .\apps\login\gettext.py:104 .\apps\public\gettext.py:118
+#: .\apps\register\gettext.py:55 .\apps\reset\gettext.py:75
+#: .\apps\search\gettext.py:86 .\apps\single\gettext.py:113
+msgid "Featured Posts"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:94 .\apps\category\gettext.py:39
+#: .\apps\contact\gettext.py:55 .\apps\forget\gettext.py:97
+#: .\apps\login\gettext.py:32 .\apps\public\gettext.py:26
+#: .\apps\register\gettext.py:112 .\apps\reset\gettext.py:15
+#: .\apps\search\gettext.py:60 .\apps\single\gettext.py:58
+msgid "Example 6"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:95 .\apps\category\gettext.py:63
+#: .\apps\contact\gettext.py:80 .\apps\forget\gettext.py:82
+#: .\apps\index\gettext.py:26 .\apps\login\gettext.py:59
+#: .\apps\public\gettext.py:108 .\apps\register\gettext.py:24
+#: .\apps\reset\gettext.py:112 .\apps\search\gettext.py:76
+#: .\apps\single\gettext.py:92
+msgid "Newsletter"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:96 .\apps\category\gettext.py:54
+#: .\apps\contact\gettext.py:40 .\apps\forget\gettext.py:63
+#: .\apps\login\gettext.py:58 .\apps\public\gettext.py:99
+#: .\apps\reset\gettext.py:115 .\apps\search\gettext.py:62
+#: .\apps\single\gettext.py:112
+msgid ""
+" \t\t\t\t\t\t\tCOPYRIGHT &copy; MAGZ 2017. ALL RIGHT RESERVED. \t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:97 .\apps\category\gettext.py:50
+#: .\apps\contact\gettext.py:46 .\apps\forget\gettext.py:49
+#: .\apps\login\gettext.py:103 .\apps\public\gettext.py:90
+#: .\apps\register\gettext.py:69 .\apps\reset\gettext.py:42
+#: .\apps\search\gettext.py:9 .\apps\single\gettext.py:22
+msgid "Single"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:98 .\apps\category\gettext.py:116
+#: .\apps\contact\gettext.py:67 .\apps\forget\gettext.py:85
+#: .\apps\login\gettext.py:126 .\apps\register\gettext.py:79
+#: .\apps\reset\gettext.py:89 .\apps\search\gettext.py:34
+#: .\apps\single\gettext.py:137
+msgid "404"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:99 .\apps\category\gettext.py:92
+#: .\apps\contact\gettext.py:10 .\apps\forget\gettext.py:15
+#: .\apps\login\gettext.py:73 .\apps\public\gettext.py:101
+#: .\apps\register\gettext.py:130 .\apps\reset\gettext.py:106
+#: .\apps\search\gettext.py:102 .\apps\single\gettext.py:64
+msgid "Example 16"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:100 .\apps\category\gettext.py:76
+#: .\apps\contact\gettext.py:17 .\apps\forget\gettext.py:108
+#: .\apps\login\gettext.py:27 .\apps\public\gettext.py:105
+#: .\apps\register\gettext.py:22 .\apps\reset\gettext.py:28
+#: .\apps\search\gettext.py:129 .\apps\single\gettext.py:86
+msgid "Example 15"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:101 .\apps\category\gettext.py:87
+#: .\apps\contact\gettext.py:85 .\apps\forget\gettext.py:103
+#: .\apps\login\gettext.py:94 .\apps\public\gettext.py:73
+#: .\apps\register\gettext.py:109 .\apps\reset\gettext.py:124
+#: .\apps\search\gettext.py:45 .\apps\single\gettext.py:120
+msgid "Brainware"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:102
+msgid ""
+" \t\t\t\t\t\t\t\tSed nec feugiat sem, nec ultrices orci. Duis ultrices "
+"ultricies fringilla. Aliquam convallis diam eu lectus porta, sit amet "
+"viverra nibh tincidunt. Etiam et luctus nisi. Integer posuere, augue at "
+"elementum aliquet, mauris ante dictum dui, eu pellentesque arcu ante eget "
+"libero. Sed consectetur fermentum felis sit amet eleifend. \t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:103 .\apps\category\gettext.py:4
+#: .\apps\contact\gettext.py:88 .\apps\forget\gettext.py:120
+#: .\apps\login\gettext.py:55 .\apps\public\gettext.py:15
+#: .\apps\register\gettext.py:103 .\apps\reset\gettext.py:125
+#: .\apps\search\gettext.py:42 .\apps\single\gettext.py:44
+msgid "网页模板"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:104 .\apps\category\gettext.py:123
+#: .\apps\contact\gettext.py:21 .\apps\forget\gettext.py:78
+#: .\apps\login\gettext.py:99 .\apps\public\gettext.py:91
+#: .\apps\register\gettext.py:81 .\apps\reset\gettext.py:65
+#: .\apps\search\gettext.py:26 .\apps\single\gettext.py:53
+msgid "Travel"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:105 .\apps\category\gettext.py:30
+#: .\apps\contact\gettext.py:5 .\apps\forget\gettext.py:72
+#: .\apps\login\gettext.py:60 .\apps\public\gettext.py:52
+#: .\apps\register\gettext.py:64 .\apps\reset\gettext.py:78
+#: .\apps\search\gettext.py:68 .\apps\single\gettext.py:105
+msgid "Web"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:106 .\apps\category\gettext.py:41
+#: .\apps\contact\gettext.py:101 .\apps\forget\gettext.py:102
+#: .\apps\login\gettext.py:6 .\apps\public\gettext.py:109
+#: .\apps\register\gettext.py:56 .\apps\reset\gettext.py:32
+#: .\apps\search\gettext.py:12 .\apps\single\gettext.py:104
+msgid "Company Info"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:107 .\apps\category\gettext.py:33
+#: .\apps\contact\gettext.py:35 .\apps\forget\gettext.py:74
+#: .\apps\login\gettext.py:100 .\apps\public\gettext.py:36
+#: .\apps\reset\gettext.py:6 .\apps\search\gettext.py:69
+#: .\apps\single\gettext.py:13
+msgid "Popular Tags "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:108 .\apps\category\gettext.py:110
+#: .\apps\contact\gettext.py:52 .\apps\forget\gettext.py:37
+#: .\apps\login\gettext.py:51 .\apps\public\gettext.py:103
+#: .\apps\register\gettext.py:94 .\apps\reset\gettext.py:49
+#: .\apps\search\gettext.py:110 .\apps\single\gettext.py:101
+msgid "Example 11"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:109 .\apps\category\gettext.py:91
+#: .\apps\contact\gettext.py:74 .\apps\forget\gettext.py:10
+#: .\apps\index\gettext.py:14 .\apps\login\gettext.py:62
+#: .\apps\public\gettext.py:93 .\apps\register\gettext.py:124
+#: .\apps\reset\gettext.py:19 .\apps\search\gettext.py:25
+#: .\apps\single\gettext.py:90
+msgid "By subscribing you will receive new articles in your email."
+msgstr ""
+
+#: .\apps\about_us\gettext.py:110 .\apps\category\gettext.py:66
+#: .\apps\contact\gettext.py:75 .\apps\forget\gettext.py:62
+#: .\apps\login\gettext.py:79 .\apps\public\gettext.py:48
+#: .\apps\register\gettext.py:6 .\apps\reset\gettext.py:105
+#: .\apps\search\gettext.py:71 .\apps\single\gettext.py:136
+msgid "Example 9"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:111 .\apps\category\gettext.py:25
+#: .\apps\contact\gettext.py:105 .\apps\forget\gettext.py:42
+#: .\apps\login\gettext.py:67 .\apps\public\gettext.py:110
+#: .\apps\register\gettext.py:61 .\apps\reset\gettext.py:55
+#: .\apps\search\gettext.py:13 .\apps\single\gettext.py:87
+msgid "Authentication "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:112 .\apps\category\gettext.py:74
+#: .\apps\contact\gettext.py:126 .\apps\forget\gettext.py:106
+#: .\apps\login\gettext.py:116 .\apps\public\gettext.py:77
+#: .\apps\register\gettext.py:34 .\apps\reset\gettext.py:27
+#: .\apps\search\gettext.py:10 .\apps\single\gettext.py:95
+msgid "Column 3"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:113
+msgid "We will tell you who we are"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:114 .\apps\category\gettext.py:38
+#: .\apps\contact\gettext.py:91 .\apps\forget\gettext.py:51
+#: .\apps\login\gettext.py:81 .\apps\public\gettext.py:11
+#: .\apps\register\gettext.py:46 .\apps\reset\gettext.py:38
+#: .\apps\search\gettext.py:95 .\apps\single\gettext.py:55
+msgid "403"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:115 .\apps\category\gettext.py:24
+#: .\apps\contact\gettext.py:125 .\apps\forget\gettext.py:91
+#: .\apps\login\gettext.py:17 .\apps\public\gettext.py:75
+#: .\apps\register\gettext.py:75 .\apps\reset\gettext.py:13
+#: .\apps\search\gettext.py:20 .\apps\single\gettext.py:56
+msgid "December 14, 2016"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:116 .\apps\category\gettext.py:27
+#: .\apps\contact\gettext.py:106 .\apps\forget\gettext.py:55
+#: .\apps\login\gettext.py:110 .\apps\public\gettext.py:117
+#: .\apps\register\gettext.py:29 .\apps\reset\gettext.py:117
+#: .\apps\search\gettext.py:16 .\apps\single\gettext.py:19
+msgid "Example 5"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:117 .\apps\category\gettext.py:65
+#: .\apps\contact\gettext.py:127 .\apps\forget\gettext.py:24
+#: .\apps\login\gettext.py:121 .\apps\public\gettext.py:64
+#: .\apps\register\gettext.py:117 .\apps\reset\gettext.py:71
+#: .\apps\search\gettext.py:18 .\apps\single\gettext.py:117
+msgid "Example 20"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:118 .\apps\category\gettext.py:5
+#: .\apps\contact\gettext.py:128 .\apps\forget\gettext.py:18
+#: .\apps\login\gettext.py:120 .\apps\public\gettext.py:81
+#: .\apps\register\gettext.py:49 .\apps\reset\gettext.py:86
+#: .\apps\search\gettext.py:100 .\apps\single\gettext.py:116
+msgid "Native"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:119 .\apps\category\gettext.py:103
+#: .\apps\contact\gettext.py:129 .\apps\forget\gettext.py:87
+#: .\apps\login\gettext.py:101 .\apps\public\gettext.py:116
+#: .\apps\register\gettext.py:57 .\apps\reset\gettext.py:48
+#: .\apps\search\gettext.py:84 .\apps\single\gettext.py:84
+msgid "Search"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:120
+msgid " \t\t\t\t\t\t\t\tHave a question? "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:121
+msgid ""
+" \t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipisicing elit, "
+"sed do eiusmod \t\t\t\t\t\t\t\ttempor incididunt ut labore et dolore magna "
+"aliqua. Ut enim ad minim veniam, \t\t\t\t\t\t\t\tquis nostrud exercitation "
+"ullamco laboris nisi ut aliquip ex ea commodo \t\t\t\t\t\t\t\tconsequat. "
+"Duis aute irure dolor in reprehenderit in voluptate velit esse \t\t\t\t\t\t\t"
+"\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat "
+"non \t\t\t\t\t\t\t\tproident, sunt in culpa qui officia deserunt mollit anim "
+"id est laborum. \t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:122 .\apps\category\gettext.py:61
+#: .\apps\contact\gettext.py:48 .\apps\forget\gettext.py:69
+#: .\apps\login\gettext.py:15 .\apps\public\gettext.py:76
+#: .\apps\register\gettext.py:93 .\apps\reset\gettext.py:29
+#: .\apps\search\gettext.py:124 .\apps\single\gettext.py:140
+msgid "Hybrid "
+msgstr ""
+
+#: .\apps\about_us\gettext.py:123 .\apps\category\gettext.py:48
+#: .\apps\contact\gettext.py:120 .\apps\forget\gettext.py:38
+#: .\apps\login\gettext.py:105 .\apps\public\gettext.py:107
+#: .\apps\register\gettext.py:95 .\apps\reset\gettext.py:60
+#: .\apps\search\gettext.py:107 .\apps\single\gettext.py:30
+msgid "Internet"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:124
+msgid "About Us"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:125 .\apps\category\gettext.py:80
+#: .\apps\contact\gettext.py:108 .\apps\forget\gettext.py:92
+#: .\apps\login\gettext.py:117 .\apps\public\gettext.py:67
+#: .\apps\register\gettext.py:106 .\apps\reset\gettext.py:88
+#: .\apps\search\gettext.py:58 .\apps\single\gettext.py:96
+msgid "Column 2"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:126 .\apps\category\gettext.py:102
+#: .\apps\contact\gettext.py:32 .\apps\forget\gettext.py:43
+#: .\apps\login\gettext.py:25 .\apps\public\gettext.py:96
+#: .\apps\register\gettext.py:96 .\apps\reset\gettext.py:74
+#: .\apps\search\gettext.py:55 .\apps\single\gettext.py:41
+msgid "December 13, 2016"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:127 .\apps\category\gettext.py:89
+#: .\apps\contact\gettext.py:54 .\apps\forget\gettext.py:13
+#: .\apps\login\gettext.py:29 .\apps\public\gettext.py:21
+#: .\apps\register\gettext.py:97 .\apps\reset\gettext.py:45
+#: .\apps\search\gettext.py:27 .\apps\single\gettext.py:69
+msgid "Example 13"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:128 .\apps\category\gettext.py:51
+#: .\apps\contact\gettext.py:113 .\apps\forget\gettext.py:125
+#: .\apps\login\gettext.py:54 .\apps\public\gettext.py:71
+#: .\apps\register\gettext.py:78 .\apps\reset\gettext.py:119
+#: .\apps\search\gettext.py:114 .\apps\single\gettext.py:71
+msgid " Favorite"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:129 .\apps\category\gettext.py:78
+#: .\apps\contact\gettext.py:110 .\apps\forget\gettext.py:22
+#: .\apps\login\gettext.py:76 .\apps\public\gettext.py:44
+#: .\apps\register\gettext.py:121 .\apps\reset\gettext.py:31
+#: .\apps\search\gettext.py:87 .\apps\single\gettext.py:83
+msgid "Healthy"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:130 .\apps\category\gettext.py:84
+#: .\apps\contact\gettext.py:77 .\apps\forget\gettext.py:41
+#: .\apps\login\gettext.py:35 .\apps\public\gettext.py:47
+#: .\apps\register\gettext.py:40 .\apps\reset\gettext.py:82
+#: .\apps\search\gettext.py:28 .\apps\single\gettext.py:135
+msgid "AnguarJS"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:131
+msgid "Pellentesque"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:132 .\apps\category\gettext.py:104
+#: .\apps\contact\gettext.py:115 .\apps\forget\gettext.py:111
+#: .\apps\login\gettext.py:118 .\apps\public\gettext.py:70
+#: .\apps\register\gettext.py:19 .\apps\reset\gettext.py:16
+#: .\apps\search\gettext.py:94 .\apps\single\gettext.py:102
+msgid " Logout"
+msgstr ""
+
+#: .\apps\about_us\gettext.py:133 .\apps\category\gettext.py:105
+#: .\apps\contact\gettext.py:18 .\apps\forget\gettext.py:53
+#: .\apps\login\gettext.py:47 .\apps\public\gettext.py:56
+#: .\apps\reset\gettext.py:102 .\apps\search\gettext.py:5
+#: .\apps\single\gettext.py:158
+msgid " Mega menu is a new feature"
+msgstr ""
+
+#: .\apps\category\gettext.py:21 .\apps\index\gettext.py:3
+#: .\apps\search\gettext.py:118
+msgid "More"
+msgstr ""
+
+#: .\apps\category\gettext.py:82 .\apps\single\gettext.py:153
+msgid "Recent Post"
+msgstr ""
+
+#: .\apps\category\gettext.py:95 .\apps\search\gettext.py:23
+msgid "..."
+msgstr ""
+
+#: .\apps\category\gettext.py:97
+msgid "Showing all posts with category "
+msgstr ""
+
+#: .\apps\category\gettext.py:112 .\apps\search\gettext.py:65
+msgid "1"
+msgstr ""
+
+#: .\apps\category\gettext.py:117 .\apps\single\gettext.py:121
+msgid "Advertisement"
+msgstr ""
+
+#: .\apps\contact\gettext.py:9
+msgid "Your message "
+msgstr ""
+
+#: .\apps\contact\gettext.py:20
+msgid "language"
+msgstr ""
+
+#: .\apps\contact\gettext.py:42 .\apps\single\gettext.py:38
+msgid "Email "
+msgstr ""
+
+#: .\apps\contact\gettext.py:84
+msgid "Send Message"
+msgstr ""
+
+#: .\apps\contact\gettext.py:89
+msgid "17303226424"
+msgstr ""
+
+#: .\apps\contact\gettext.py:99 .\apps\single\gettext.py:132
+msgid "Name "
+msgstr ""
+
+#: .\apps\contact\gettext.py:104
+msgid "Subject"
+msgstr ""
+
+#: .\apps\contact\gettext.py:122
+msgid "3395087980@qq.com"
+msgstr ""
+
+#: .\apps\forget\gettext.py:6
+msgid "Email                                         "
+msgstr ""
+
+#: .\apps\forget\gettext.py:26
+msgid "Email verification                                         "
+msgstr ""
+
+#: .\apps\forget\gettext.py:45
+msgid "Back to login?"
+msgstr ""
+
+#: .\apps\forget\gettext.py:88 .\apps\register\gettext.py:87
+msgid "get verification code"
+msgstr ""
+
+#: .\apps\forget\models.py:8
+msgid "last name"
+msgstr ""
+
+#: .\apps\forget\models.py:9
+msgid "email address"
+msgstr ""
+
+#: .\apps\forget\models.py:10
+msgid "user_md5"
+msgstr ""
+
+#: .\apps\index\gettext.py:4
+msgid " \t\t\t\t\t\t\t\t\tHot News \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\index\gettext.py:5
+msgid ""
+" \t\t\t\t\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur "
+"adipisicing elit. \t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\index\gettext.py:6
+msgid " Featured"
+msgstr ""
+
+#: .\apps\index\gettext.py:7
+msgid "Best Of The Week"
+msgstr ""
+
+#: .\apps\index\gettext.py:8
+msgid " Comments \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\index\gettext.py:9
+msgid "Previous"
+msgstr ""
+
+#: .\apps\index\gettext.py:10
+msgid "Photos"
+msgstr ""
+
+#: .\apps\index\gettext.py:11
+msgid "Just Another News "
+msgstr ""
+
+#: .\apps\index\gettext.py:12
+msgid "Videos \t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\index\gettext.py:13
+msgid "Trending Tags"
+msgstr ""
+
+#: .\apps\index\gettext.py:15
+msgid "Sidebar"
+msgstr ""
+
+#: .\apps\index\gettext.py:16
+msgid "Next"
+msgstr ""
+
+#: .\apps\index\gettext.py:17
+msgid "Popular "
+msgstr ""
+
+#: .\apps\index\gettext.py:19
+msgid "Posts"
+msgstr ""
+
+#: .\apps\index\gettext.py:20
+msgid " Recomended \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\index\gettext.py:21
+msgid "+2"
+msgstr ""
+
+#: .\apps\index\gettext.py:22
+msgid "Sponsored"
+msgstr ""
+
+#: .\apps\index\gettext.py:24
+msgid "See All Authors"
+msgstr ""
+
+#: .\apps\index\gettext.py:25
+msgid "Focus"
+msgstr ""
+
+#: .\apps\index\gettext.py:27
+msgid "Tip!"
+msgstr ""
+
+#: .\apps\login\gettext.py:10
+msgid "Create one"
+msgstr ""
+
+#: .\apps\login\gettext.py:22
+msgid "Username                                     "
+msgstr ""
+
+#: .\apps\login\gettext.py:41
+msgid ""
+" {# "
+"dfghjkjhgfdghjgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg#}                                     "
+msgstr ""
+
+#: .\apps\login\gettext.py:69
+msgid "Don't have an account?"
+msgstr ""
+
+#: .\apps\login\gettext.py:77
+msgid " Login with Facebook"
+msgstr ""
+
+#: .\apps\login\gettext.py:97
+msgid " \t\t\t\t\t\t\t\t\tor \t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\login\gettext.py:98
+msgid "Login                                 "
+msgstr ""
+
+#: .\apps\login\gettext.py:112
+msgid "Password \t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\public\gettext.py:37
+msgid "Popular"
+msgstr ""
+
+#: .\apps\public\gettext.py:60
+msgid "#} \t\t"
+msgstr ""
+
+#: .\apps\public\gettext.py:69
+msgid " \tCollect from "
+msgstr ""
+
+#: .\apps\public\gettext.py:85
+msgid "组卷网"
+msgstr ""
+
+#: .\apps\public\gettext.py:94
+msgid "#} \t"
+msgstr ""
+
+#: .\apps\register\gettext.py:10
+msgid "Password                                 "
+msgstr ""
+
+#: .\apps\register\gettext.py:12
+msgid "Email                                 "
+msgstr ""
+
+#: .\apps\register\gettext.py:16
+msgid ""
+"Duis aute irure dolor in "
+"reprehenderit                                                             in "
+"voluptate"
+msgstr ""
+
+#: .\apps\register\gettext.py:39
+msgid " -                         Collect from "
+msgstr ""
+
+#: .\apps\register\gettext.py:44
+msgid "Already have an account?"
+msgstr ""
+
+#: .\apps\register\gettext.py:48
+msgid " This is an                                                 example"
+msgstr ""
+
+#: .\apps\register\gettext.py:51
+msgid "Username                                 "
+msgstr ""
+
+#: .\apps\register\gettext.py:54
+msgid ""
+"                             Magz is a HTML5 &amp; CSS3 magazine template "
+"based on Bootstrap 3.                         "
+msgstr ""
+
+#: .\apps\register\gettext.py:59
+msgid "Email verification                                 "
+msgstr ""
+
+#: .\apps\register\gettext.py:70
+msgid " For a submenu                                                 item"
+msgstr ""
+
+#: .\apps\register\gettext.py:89
+msgid ""
+"                     COPYRIGHT &copy; MAGZ 2017. ALL RIGHT "
+"RESERVED.                     "
+msgstr ""
+
+#: .\apps\register\gettext.py:100
+msgid "First Name                                 "
+msgstr ""
+
+#: .\apps\register\gettext.py:119
+msgid "Popular Tags                         "
+msgstr ""
+
+#: .\apps\register\gettext.py:123
+msgid ""
+" Mega menu is a new                                                 feature"
+msgstr ""
+
+#: .\apps\register\gettext.py:129
+msgid "Last Name                                 "
+msgstr ""
+
+#: .\apps\reset\gettext.py:44
+msgid "New Password"
+msgstr ""
+
+#: .\apps\reset\gettext.py:100
+msgid "Email"
+msgstr ""
+
+#: .\apps\reset\gettext.py:101
+msgid "Reset Password                                 "
+msgstr ""
+
+#: .\apps\search\gettext.py:15
+msgid "Search with other keywords or use filters for more accurate results."
+msgstr ""
+
+#: .\apps\search\gettext.py:47
+msgid "Filter"
+msgstr ""
+
+#: .\apps\search\gettext.py:75
+msgid "Precise search"
+msgstr ""
+
+#: .\apps\search\gettext.py:85
+msgid "Date"
+msgstr ""
+
+#: .\apps\search\gettext.py:126
+msgid "Default"
+msgstr ""
+
+#: .\apps\single\gettext.py:2
+msgid "Shares"
+msgstr ""
+
+#: .\apps\single\gettext.py:7
+msgid "Mark Otto"
+msgstr ""
+
+#: .\apps\single\gettext.py:12
+msgid "You May Also Like"
+msgstr ""
+
+#: .\apps\single\gettext.py:21
+msgid "Leave Your Response"
+msgstr ""
+
+#: .\apps\single\gettext.py:37
+msgid "Write a Response"
+msgstr ""
+
+#: .\apps\single\gettext.py:39
+msgid ""
+" aliqua. Ut enim ad minim veniam, \t\t\t\t\t\t\t\t\t\t\t\tquis nostrud "
+"exercitation ullamco laboris nisi ut aliquip ex ea commodo. \t\t\t\t\t\t\t\t"
+"\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:46
+msgid " \t\t\t\t\t\t\t\t\t20 \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:49
+msgid "24 Hours"
+msgstr ""
+
+#: .\apps\single\gettext.py:50
+msgid "Web Developer"
+msgstr ""
+
+#: .\apps\single\gettext.py:51
+msgid "By "
+msgstr ""
+
+#: .\apps\single\gettext.py:59
+msgid "Website"
+msgstr ""
+
+#: .\apps\single\gettext.py:60
+msgid " Facebook \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:65
+msgid " Twitter \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:66
+msgid "3 Responses "
+msgstr ""
+
+#: .\apps\single\gettext.py:72
+msgid "December 26, 2016"
+msgstr ""
+
+#: .\apps\single\gettext.py:81
+msgid "December 20, 2016"
+msgstr ""
+
+#: .\apps\single\gettext.py:89
+msgid " Sharing is caring"
+msgstr ""
+
+#: .\apps\single\gettext.py:91
+msgid ""
+"Nulla sagittis rhoncus nisi, vel gravida ante. Nunc lobortis condimentum "
+"elit, quis porta ipsum rhoncus vitae. Curabitur magna leo, porta vel "
+"fringilla gravida, consectetur in libero. Duis aute irure dolor in "
+"reprehenderit in voluptate velit esse cillum."
+msgstr ""
+
+#: .\apps\single\gettext.py:94
+msgid ""
+" \t\t\t\t\t\t\t\t\t\t\t\t\t\tQuis nostrud exercitation ullamco laboris nisi "
+"ut aliquip ex ea commodo \t\t\t\t\t\t\t\t\t\t\t\t\t\tconsequat. Duis aute "
+"irure dolor in reprehenderit in voluptate velit esse \t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat "
+"cupidatat non \t\t\t\t\t\t\t\t\t\t\t\t\t\tproident, sunt in culpa qui "
+"officia deserunt mollit anim id est laborum. \t\t\t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:97
+msgid "Author"
+msgstr ""
+
+#: .\apps\single\gettext.py:98
+msgid "Duis aute irure dolor in reprehenderit in voluptate velit"
+msgstr ""
+
+#: .\apps\single\gettext.py:99
+msgid "December 21, 2016"
+msgstr ""
+
+#: .\apps\single\gettext.py:114
+msgid "International"
+msgstr ""
+
+#: .\apps\single\gettext.py:115
+msgid "magna"
+msgstr ""
+
+#: .\apps\single\gettext.py:123
+msgid " Linkedin \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:126
+msgid ""
+" \t\t\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipisicing "
+"elit, sed do eiusmod \t\t\t\t\t\t\t\t\t\t\t\ttempor incididunt ut labore et "
+"dolore "
+msgstr ""
+
+#: .\apps\single\gettext.py:128
+msgid " Email \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:129
+msgid "Response "
+msgstr ""
+
+#: .\apps\single\gettext.py:138
+msgid "Fusce ullamcorper elit at felis cursus suscipit"
+msgstr ""
+
+#: .\apps\single\gettext.py:139
+msgid "Reply"
+msgstr ""
+
+#: .\apps\single\gettext.py:142
+msgid "Send Response"
+msgstr ""
+
+#: .\apps\single\gettext.py:147
+msgid "1220"
+msgstr ""
+
+#: .\apps\single\gettext.py:148
+msgid ""
+" \t\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur adipisicing "
+"elit, sed do eiusmod \t\t\t\t\t\t\t\t\t\t\ttempor incididunt ut labore et "
+"dolore magna aliqua. \t\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:149
+msgid " Google+ \t\t\t\t\t\t\t\t\t"
+msgstr ""
+
+#: .\apps\single\gettext.py:151
+msgid "December 22, 2016"
+msgstr ""
+
+#: .\apps\single\gettext.py:155
+msgid "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit"
+msgstr ""
+
+#: .\apps\single\gettext.py:160
+msgid "John Doe"
+msgstr ""
+
+#: .\apps\single\views.py:25
+msgid "hello world"
+msgstr ""
+
+#: .\settings\dav.py:51
+msgid "Simplified Chinese"
+msgstr ""
+
+#: .\settings\dav.py:52
+msgid "Traditional Chinese"
+msgstr ""
+
+#: .\settings\dav.py:53
+msgid "Uyghur"
+msgstr ""
+
+#: .\settings\dav.py:54
+msgid "English"
+msgstr ""
