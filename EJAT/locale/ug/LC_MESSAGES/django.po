@@ -9,19 +9,21 @@
 #: .\apps\public\gettext.py:4 .\apps\register\gettext.py:2
 #: .\apps\reset\gettext.py:2 .\apps\search\gettext.py:2
 #: .\apps\single\gettext.py:4
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-25 21:14+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-10-29 13:16+0000\n"
+"Last-Translator: ejatjon amar <3395087980@qq.com>\n"
+"Language-Team: Uyghur <https://hosted.weblate.org/projects/ejat02/ejat01/ug/>"
+"\n"
+"Language: ug\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #: .\apps\about_us\gettext.py:3 .\apps\category\gettext.py:62
 #: .\apps\contact\gettext.py:34 .\apps\forget\gettext.py:90
@@ -29,7 +31,7 @@ msgstr ""
 #: .\apps\register\gettext.py:8 .\apps\reset\gettext.py:76
 #: .\apps\search\gettext.py:91 .\apps\single\gettext.py:25
 msgid "Example 8"
-msgstr ""
+msgstr "مىسال 8"
 
 #: .\apps\about_us\gettext.py:4 .\apps\category\gettext.py:111
 #: .\apps\contact\gettext.py:57 .\apps\forget\gettext.py:7
@@ -37,7 +39,7 @@ msgstr ""
 #: .\apps\register\gettext.py:116 .\apps\reset\gettext.py:68
 #: .\apps\search\gettext.py:11 .\apps\single\gettext.py:82
 msgid " Change Password"
-msgstr ""
+msgstr " پارولنى ئۆزگەرتىش"
 
 #: .\apps\about_us\gettext.py:5 .\apps\category\gettext.py:22
 #: .\apps\contact\gettext.py:64 .\apps\forget\gettext.py:61
@@ -45,7 +47,7 @@ msgstr ""
 #: .\apps\register\gettext.py:90 .\apps\reset\gettext.py:54
 #: .\apps\search\gettext.py:113 .\apps\single\gettext.py:29
 msgid "Reset Password"
-msgstr ""
+msgstr "پارولنى ئەسلىگە كەلتۈرۈش"
 
 #: .\apps\about_us\gettext.py:6 .\apps\category\gettext.py:60
 #: .\apps\contact\gettext.py:37 .\apps\forget\gettext.py:76
@@ -53,7 +55,7 @@ msgstr ""
 #: .\apps\register\gettext.py:114 .\apps\reset\gettext.py:85
 #: .\apps\search\gettext.py:30 .\apps\single\gettext.py:14
 msgid "Hardware "
-msgstr ""
+msgstr "قاتتىق دېتال "
 
 #: .\apps\about_us\gettext.py:7 .\apps\category\gettext.py:44
 #: .\apps\contact\gettext.py:27 .\apps\forget\gettext.py:5
@@ -61,7 +63,7 @@ msgstr ""
 #: .\apps\register\gettext.py:115 .\apps\reset\gettext.py:14
 #: .\apps\search\gettext.py:99 .\apps\single\gettext.py:108
 msgid "Framework 7"
-msgstr ""
+msgstr "Framework 7"
 
 #: .\apps\about_us\gettext.py:8 .\apps\category\gettext.py:68
 #: .\apps\contact\gettext.py:49 .\apps\forget\gettext.py:96
@@ -69,7 +71,7 @@ msgstr ""
 #: .\apps\register\gettext.py:20 .\apps\reset\gettext.py:120
 #: .\apps\search\gettext.py:59 .\apps\single\gettext.py:106
 msgid "500"
-msgstr ""
+msgstr "500"
 
 #: .\apps\about_us\gettext.py:9 .\apps\category\gettext.py:100
 #: .\apps\contact\gettext.py:50 .\apps\forget\gettext.py:27
@@ -77,7 +79,7 @@ msgstr ""
 #: .\apps\register\gettext.py:77 .\apps\reset\gettext.py:87
 #: .\apps\search\gettext.py:48 .\apps\single\gettext.py:15
 msgid "Standing On The Train"
-msgstr ""
+msgstr "پويىزدا تۇرۇش"
 
 #: .\apps\about_us\gettext.py:10 .\apps\category\gettext.py:23
 #: .\apps\contact\gettext.py:90 .\apps\forget\gettext.py:119
@@ -85,7 +87,7 @@ msgstr ""
 #: .\apps\register\gettext.py:72 .\apps\reset\gettext.py:22
 #: .\apps\search\gettext.py:122 .\apps\single\gettext.py:130
 msgid "Lifestyle"
-msgstr ""
+msgstr "تۇرمۇش ئۇسۇلى"
 
 #: .\apps\about_us\gettext.py:11 .\apps\category\gettext.py:47
 #: .\apps\contact\gettext.py:25 .\apps\forget\gettext.py:64
@@ -94,7 +96,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:109 .\apps\search\gettext.py:106
 #: .\apps\single\gettext.py:163
 msgid "See All "
-msgstr ""
+msgstr "ھەممىنى كۆرۈڭ "
 
 #: .\apps\about_us\gettext.py:12 .\apps\contact\gettext.py:87
 #: .\apps\forget\gettext.py:104 .\apps\login\gettext.py:128
@@ -102,7 +104,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:40 .\apps\search\gettext.py:79
 #: .\apps\single\gettext.py:35
 msgid "eu dapibus risus aliquam etiam ut venenatis"
-msgstr ""
+msgstr "eu dapibus risus aliquam etiam ut venenatis"
 
 #: .\apps\about_us\gettext.py:13 .\apps\category\gettext.py:106
 #: .\apps\contact\gettext.py:61 .\apps\forget\gettext.py:33
@@ -110,7 +112,7 @@ msgstr ""
 #: .\apps\register\gettext.py:26 .\apps\reset\gettext.py:92
 #: .\apps\search\gettext.py:119 .\apps\single\gettext.py:156
 msgid "Dropdown "
-msgstr ""
+msgstr "Dropdown "
 
 #: .\apps\about_us\gettext.py:14 .\apps\category\gettext.py:53
 #: .\apps\contact\gettext.py:2 .\apps\forget\gettext.py:94
@@ -118,7 +120,7 @@ msgstr ""
 #: .\apps\register\gettext.py:58 .\apps\reset\gettext.py:62
 #: .\apps\search\gettext.py:108 .\apps\single\gettext.py:36
 msgid "Ionic Framework 2"
-msgstr ""
+msgstr "Ionic Framework 2"
 
 #: .\apps\about_us\gettext.py:15 .\apps\category\gettext.py:94
 #: .\apps\contact\gettext.py:72 .\apps\forget\gettext.py:81
@@ -126,7 +128,7 @@ msgstr ""
 #: .\apps\register\gettext.py:31 .\apps\reset\gettext.py:18
 #: .\apps\search\gettext.py:49 .\apps\single\gettext.py:141
 msgid "Web Design"
-msgstr ""
+msgstr "تور بەت لايىھىلەش"
 
 #: .\apps\about_us\gettext.py:16 .\apps\contact\gettext.py:16
 #: .\apps\forget\gettext.py:107 .\apps\login\gettext.py:61
@@ -134,7 +136,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:36 .\apps\search\gettext.py:78
 #: .\apps\single\gettext.py:107
 msgid "Proin venenatis pellentesque arcu vitae "
-msgstr ""
+msgstr "Proin venenatis pellentesque arcu vitae "
 
 #: .\apps\about_us\gettext.py:17 .\apps\category\gettext.py:43
 #: .\apps\contact\gettext.py:123 .\apps\forget\gettext.py:99
@@ -142,7 +144,7 @@ msgstr ""
 #: .\apps\register\gettext.py:68 .\apps\reset\gettext.py:56
 #: .\apps\search\gettext.py:105 .\apps\single\gettext.py:76
 msgid "Example 18"
-msgstr ""
+msgstr "مىسال 18"
 
 #: .\apps\about_us\gettext.py:18 .\apps\category\gettext.py:99
 #: .\apps\contact\gettext.py:22 .\apps\forget\gettext.py:68
@@ -150,7 +152,7 @@ msgstr ""
 #: .\apps\register\gettext.py:122 .\apps\reset\gettext.py:70
 #: .\apps\search\gettext.py:93 .\apps\single\gettext.py:124
 msgid "HTML5"
-msgstr ""
+msgstr "HTML5"
 
 #: .\apps\about_us\gettext.py:19
 msgid ""
@@ -161,6 +163,13 @@ msgid ""
 "ut rhoncus nunc cursus. Morbi placerat lorem vel dictum maximus. Vivamus at "
 "sollicitudin turpis. Sed eu porta sem, et elementum tellus. \t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\tNulla ante nulla, aliquet vel gravida non, finibus vel "
+"eros. Vestibulum لېكسىيەسى ، ئورۇندىكى ac tincidunt rhoncus ، ماشىنىلار ac "
+"tellus. Nullam a cursus ipsum. Pellentesque ornare mi sit amet nibh euismod "
+"gravida. Tempus odio دىكى Quisque. Fusce porttitor dolor ut tortor "
+"tristique, ut rhoncus nunc cursus. Morbi placerat lorem vel dictum maximus. "
+"Vivamus at sollicitudin turpis. Sed eu porta sem, et elementum tellus. \t\t\t"
+"\t\t\t\t"
 
 #: .\apps\about_us\gettext.py:20 .\apps\category\gettext.py:26
 #: .\apps\contact\gettext.py:28 .\apps\forget\gettext.py:105
@@ -168,7 +177,7 @@ msgstr ""
 #: .\apps\register\gettext.py:28 .\apps\reset\gettext.py:80
 #: .\apps\search\gettext.py:90 .\apps\single\gettext.py:10
 msgid "Subscribe"
-msgstr ""
+msgstr "مۇشتەرى بولۇش"
 
 #: .\apps\about_us\gettext.py:21 .\apps\category\gettext.py:122
 #: .\apps\contact\gettext.py:31 .\apps\forget\gettext.py:66
@@ -179,6 +188,8 @@ msgid ""
 " \t\t\t\t\t\t\t\t\tMagz is a HTML5 &amp; CSS3 magazine template based on "
 "Bootstrap 3. \t\t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\t\tMagz بولسا HTML5 & amp; Bootstrap 3 نى ئاساس قىلغان CSS3 "
+"ژۇرنىلى قېلىپى. \t\t\t\t\t\t\t\t"
 
 #: .\apps\about_us\gettext.py:22 .\apps\category\gettext.py:11
 #: .\apps\contact\gettext.py:60 .\apps\forget\gettext.py:46
@@ -186,7 +197,7 @@ msgstr ""
 #: .\apps\register\gettext.py:107 .\apps\reset\gettext.py:24
 #: .\apps\search\gettext.py:44 .\apps\single\gettext.py:45
 msgid "Forgot Password"
-msgstr ""
+msgstr "پارولنى ئۇنتۇپ كەتتى"
 
 #: .\apps\about_us\gettext.py:23 .\apps\category\gettext.py:49
 #: .\apps\contact\gettext.py:69 .\apps\forget\gettext.py:121
@@ -194,7 +205,7 @@ msgstr ""
 #: .\apps\register\gettext.py:32 .\apps\reset\gettext.py:21
 #: .\apps\search\gettext.py:31 .\apps\single\gettext.py:70
 msgid "Mega Menu "
-msgstr ""
+msgstr "Mega Menu "
 
 #: .\apps\about_us\gettext.py:24 .\apps\category\gettext.py:35
 #: .\apps\contact\gettext.py:86 .\apps\forget\gettext.py:70
@@ -202,7 +213,7 @@ msgstr ""
 #: .\apps\register\gettext.py:11 .\apps\reset\gettext.py:104
 #: .\apps\search\gettext.py:80 .\apps\single\gettext.py:61
 msgid "Example 3"
-msgstr ""
+msgstr "مىسال 3"
 
 #: .\apps\about_us\gettext.py:25 .\apps\category\gettext.py:58
 #: .\apps\contact\gettext.py:71 .\apps\forget\gettext.py:12
@@ -210,7 +221,7 @@ msgstr ""
 #: .\apps\register\gettext.py:7 .\apps\reset\gettext.py:122
 #: .\apps\search\gettext.py:22 .\apps\single\gettext.py:26
 msgid "Example 14"
-msgstr ""
+msgstr "مىسال 14"
 
 #: .\apps\about_us\gettext.py:26
 msgid ""
@@ -219,6 +230,10 @@ msgid ""
 "fringilla. Etiam dictum ut nulla eu vehicula. Nullam sed ultricies nisi. "
 "Etiam dapibus diam vitae gravida sagittis. \t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\tNulla facilisi. Donec mollis laoreet diam. Nullam suscipit "
+"pretium turpis at pellentesque. Donec suscipit libero nec pellentesque "
+"fringilla. Etiam dictum ut nulla eu Vehicula. Nullam sed ultricies nisi. "
+"Etiam dapibus diam vitae gravida sagittis. \t\t\t\t\t\t\t"
 
 #: .\apps\about_us\gettext.py:27 .\apps\category\gettext.py:69
 #: .\apps\contact\gettext.py:81 .\apps\forget\gettext.py:34
@@ -226,7 +241,7 @@ msgstr ""
 #: .\apps\register\gettext.py:17 .\apps\reset\gettext.py:53
 #: .\apps\search\gettext.py:33 .\apps\single\gettext.py:111
 msgid "Desktop"
-msgstr ""
+msgstr "ئۈستەل يۈزى"
 
 #: .\apps\about_us\gettext.py:28 .\apps\category\gettext.py:19
 #: .\apps\contact\gettext.py:39 .\apps\forget\gettext.py:116
@@ -234,7 +249,7 @@ msgstr ""
 #: .\apps\register\gettext.py:111 .\apps\reset\gettext.py:20
 #: .\apps\search\gettext.py:111 .\apps\single\gettext.py:157
 msgid "Main Board"
-msgstr ""
+msgstr "Main Board"
 
 #: .\apps\about_us\gettext.py:29 .\apps\category\gettext.py:121
 #: .\apps\contact\gettext.py:6 .\apps\forget\gettext.py:40
@@ -242,7 +257,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:99 .\apps\search\gettext.py:121
 #: .\apps\single\gettext.py:109
 msgid " For a submenu item"
-msgstr ""
+msgstr " تارماق تىزىملىك ئۈچۈن"
 
 #: .\apps\about_us\gettext.py:30 .\apps\category\gettext.py:18
 #: .\apps\contact\gettext.py:63 .\apps\forget\gettext.py:115
@@ -250,7 +265,7 @@ msgstr ""
 #: .\apps\register\gettext.py:41 .\apps\reset\gettext.py:35
 #: .\apps\search\gettext.py:123 .\apps\single\gettext.py:133
 msgid "Partner"
-msgstr ""
+msgstr "ھەمكارلاشقۇچى"
 
 #: .\apps\about_us\gettext.py:31 .\apps\contact\gettext.py:38
 #: .\apps\forget\gettext.py:16 .\apps\login\gettext.py:37
@@ -258,7 +273,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:12 .\apps\search\gettext.py:24
 #: .\apps\single\gettext.py:3
 msgid "Donec consequat lorem quis augue pharetra"
-msgstr ""
+msgstr "Donec ئاقىۋەت lorem quis augue pharetra"
 
 #: .\apps\about_us\gettext.py:32 .\apps\category\gettext.py:67
 #: .\apps\contact\gettext.py:109 .\apps\forget\gettext.py:124
@@ -266,7 +281,7 @@ msgstr ""
 #: .\apps\register\gettext.py:113 .\apps\reset\gettext.py:39
 #: .\apps\search\gettext.py:36 .\apps\single\gettext.py:88
 msgid "Power Supply"
-msgstr ""
+msgstr "توك بىلەن تەمىنلەش"
 
 #: .\apps\about_us\gettext.py:33 .\apps\category\gettext.py:98
 #: .\apps\contact\gettext.py:79 .\apps\forget\gettext.py:57
@@ -274,15 +289,15 @@ msgstr ""
 #: .\apps\register\gettext.py:104 .\apps\reset\gettext.py:91
 #: .\apps\search\gettext.py:64 .\apps\single\gettext.py:57
 msgid "Example 1"
-msgstr ""
+msgstr "مىسال 1"
 
 #: .\apps\about_us\gettext.py:34
 msgid "Ullamco Laboris"
-msgstr ""
+msgstr "Ullamco Laboris"
 
 #: .\apps\about_us\gettext.py:35
 msgid "Fermentum"
-msgstr ""
+msgstr "Fermentum"
 
 #: .\apps\about_us\gettext.py:36 .\apps\category\gettext.py:70
 #: .\apps\contact\gettext.py:68 .\apps\forget\gettext.py:8
@@ -290,7 +305,7 @@ msgstr ""
 #: .\apps\register\gettext.py:92 .\apps\reset\gettext.py:8
 #: .\apps\search\gettext.py:32 .\apps\single\gettext.py:11
 msgid "Example 2"
-msgstr ""
+msgstr "مىسال 2"
 
 #: .\apps\about_us\gettext.py:37 .\apps\category\gettext.py:52
 #: .\apps\contact\gettext.py:30 .\apps\forget\gettext.py:123
@@ -298,14 +313,14 @@ msgstr ""
 #: .\apps\register\gettext.py:84 .\apps\reset\gettext.py:98
 #: .\apps\search\gettext.py:19 .\apps\single\gettext.py:33
 msgid "Dropdown Icons "
-msgstr ""
+msgstr "تاشلاش سىنبەلگىسى "
 
 #: .\apps\about_us\gettext.py:38 .\apps\category\gettext.py:114
 #: .\apps\forget\gettext.py:20 .\apps\login\gettext.py:33
 #: .\apps\register\gettext.py:42 .\apps\reset\gettext.py:5
 #: .\apps\search\gettext.py:53 .\apps\single\gettext.py:150
 msgid "Popular:"
-msgstr ""
+msgstr "ئاممىباب:"
 
 #: .\apps\about_us\gettext.py:39 .\apps\category\gettext.py:83
 #: .\apps\contact\gettext.py:62 .\apps\forget\gettext.py:110
@@ -313,7 +328,7 @@ msgstr ""
 #: .\apps\register\gettext.py:25 .\apps\reset\gettext.py:95
 #: .\apps\search\gettext.py:89 .\apps\single\gettext.py:5
 msgid "jQuery"
-msgstr ""
+msgstr "jQuery"
 
 #: .\apps\about_us\gettext.py:40 .\apps\category\gettext.py:34
 #: .\apps\contact\gettext.py:70 .\apps\forget\gettext.py:48
@@ -322,7 +337,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:4 .\apps\search\gettext.py:17
 #: .\apps\single\gettext.py:159
 msgid "Latest News"
-msgstr ""
+msgstr "ئەڭ يېڭى خەۋەرلەر"
 
 #: .\apps\about_us\gettext.py:41 .\apps\category\gettext.py:3
 #: .\apps\contact\gettext.py:26 .\apps\forget\gettext.py:101
@@ -330,7 +345,7 @@ msgstr ""
 #: .\apps\register\gettext.py:45 .\apps\reset\gettext.py:50
 #: .\apps\search\gettext.py:82 .\apps\single\gettext.py:144
 msgid "Programming "
-msgstr ""
+msgstr "پروگرامما تۈزۈش "
 
 #: .\apps\about_us\gettext.py:42 .\apps\category\gettext.py:9
 #: .\apps\contact\gettext.py:65 .\apps\forget\gettext.py:100
@@ -338,7 +353,7 @@ msgstr ""
 #: .\apps\register\gettext.py:21 .\apps\reset\gettext.py:23
 #: .\apps\search\gettext.py:112 .\apps\single\gettext.py:17
 msgid "Magz &mdash; Responsive HTML5 &amp; CSS3 Magazine Template"
-msgstr ""
+msgstr "Magz & mdash; مەسئۇلىيەتچان HTML5 & amp; CSS3 ژۇرنىلى قېلىپى"
 
 #: .\apps\about_us\gettext.py:43 .\apps\category\gettext.py:20
 #: .\apps\contact\gettext.py:47 .\apps\forget\gettext.py:60
@@ -346,7 +361,7 @@ msgstr ""
 #: .\apps\register\gettext.py:47 .\apps\reset\gettext.py:25
 #: .\apps\search\gettext.py:128 .\apps\single\gettext.py:6
 msgid "Example 12"
-msgstr ""
+msgstr "مىسال 12"
 
 #: .\apps\about_us\gettext.py:44 .\apps\category\gettext.py:28
 #: .\apps\contact\gettext.py:119 .\apps\forget\gettext.py:98
@@ -354,7 +369,7 @@ msgstr ""
 #: .\apps\register\gettext.py:127 .\apps\reset\gettext.py:114
 #: .\apps\search\gettext.py:14 .\apps\single\gettext.py:125
 msgid " My Account"
-msgstr ""
+msgstr " ھېساباتىم"
 
 #: .\apps\about_us\gettext.py:45 .\apps\category\gettext.py:37
 #: .\apps\contact\gettext.py:116 .\apps\forget\gettext.py:122
@@ -362,7 +377,7 @@ msgstr ""
 #: .\apps\register\gettext.py:74 .\apps\reset\gettext.py:47
 #: .\apps\search\gettext.py:61 .\apps\single\gettext.py:146
 msgid "Follow us and stay in touch to get the latest news"
-msgstr ""
+msgstr "بىزگە ئەگىشىڭ ۋە ئەڭ يېڭى خەۋەرلەرگە ئېرىشىش ئۈچۈن ئالاقىلىشىڭ"
 
 #: .\apps\about_us\gettext.py:46 .\apps\category\gettext.py:45
 #: .\apps\contact\gettext.py:103 .\apps\forget\gettext.py:47
@@ -370,7 +385,7 @@ msgstr ""
 #: .\apps\register\gettext.py:118 .\apps\reset\gettext.py:11
 #: .\apps\search\gettext.py:50 .\apps\single\gettext.py:93
 msgid " Settings"
-msgstr ""
+msgstr " تەڭشەك"
 
 #: .\apps\about_us\gettext.py:47 .\apps\category\gettext.py:86
 #: .\apps\contact\gettext.py:14 .\apps\forget\gettext.py:86
@@ -378,7 +393,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:110 .\apps\search\gettext.py:3
 #: .\apps\single\gettext.py:52
 msgid " - Collect from "
-msgstr ""
+msgstr " - توپلاڭ "
 
 #: .\apps\about_us\gettext.py:48 .\apps\category\gettext.py:108
 #: .\apps\contact\gettext.py:112 .\apps\forget\gettext.py:59
@@ -386,7 +401,7 @@ msgstr ""
 #: .\apps\register\gettext.py:50 .\apps\reset\gettext.py:61
 #: .\apps\search\gettext.py:29 .\apps\single\gettext.py:162
 msgid "Example 19"
-msgstr ""
+msgstr "مىسال 19"
 
 #: .\apps\about_us\gettext.py:49 .\apps\category\gettext.py:118
 #: .\apps\contact\gettext.py:13 .\apps\forget\gettext.py:14
@@ -394,7 +409,7 @@ msgstr ""
 #: .\apps\register\gettext.py:37 .\apps\reset\gettext.py:7
 #: .\apps\search\gettext.py:6 .\apps\single\gettext.py:118
 msgid "Follow Us"
-msgstr ""
+msgstr "بىزگە ئەگىشىڭ"
 
 #: .\apps\about_us\gettext.py:50 .\apps\category\gettext.py:46
 #: .\apps\contact\gettext.py:45 .\apps\forget\gettext.py:54
@@ -402,7 +417,7 @@ msgstr ""
 #: .\apps\register\gettext.py:5 .\apps\reset\gettext.py:67
 #: .\apps\search\gettext.py:104 .\apps\single\gettext.py:47
 msgid "Error "
-msgstr ""
+msgstr "خاتالىق "
 
 #: .\apps\about_us\gettext.py:51 .\apps\category\gettext.py:119
 #: .\apps\contact\gettext.py:23 .\apps\forget\gettext.py:95
@@ -410,7 +425,7 @@ msgstr ""
 #: .\apps\register\gettext.py:110 .\apps\reset\gettext.py:10
 #: .\apps\search\gettext.py:130 .\apps\single\gettext.py:28
 msgid "Ionic Framework 3"
-msgstr ""
+msgstr "Ionic Framework 3"
 
 #: .\apps\about_us\gettext.py:52 .\apps\category\gettext.py:73
 #: .\apps\contact\gettext.py:58 .\apps\forget\gettext.py:35
@@ -418,7 +433,7 @@ msgstr ""
 #: .\apps\register\gettext.py:23 .\apps\reset\gettext.py:103
 #: .\apps\search\gettext.py:115 .\apps\single\gettext.py:27
 msgid "Troubleshoot "
-msgstr ""
+msgstr "كاشىلا "
 
 #: .\apps\about_us\gettext.py:53 .\apps\category\gettext.py:109
 #: .\apps\contact\gettext.py:29 .\apps\forget\gettext.py:117
@@ -426,7 +441,7 @@ msgstr ""
 #: .\apps\register\gettext.py:60 .\apps\reset\gettext.py:46
 #: .\apps\search\gettext.py:109 .\apps\single\gettext.py:79
 msgid "Office"
-msgstr ""
+msgstr "Office"
 
 #: .\apps\about_us\gettext.py:54 .\apps\category\gettext.py:31
 #: .\apps\contact\gettext.py:66 .\apps\forget\gettext.py:77
@@ -434,7 +449,7 @@ msgstr ""
 #: .\apps\register\gettext.py:3 .\apps\reset\gettext.py:121
 #: .\apps\search\gettext.py:92 .\apps\single\gettext.py:85
 msgid "About Us "
-msgstr ""
+msgstr "بىز ھەققىدە "
 
 #: .\apps\about_us\gettext.py:55 .\apps\category\gettext.py:16
 #: .\apps\contact\gettext.py:83 .\apps\forget\gettext.py:28
@@ -442,7 +457,7 @@ msgstr ""
 #: .\apps\register\gettext.py:4 .\apps\reset\gettext.py:59
 #: .\apps\search\gettext.py:38 .\apps\single\gettext.py:77
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: .\apps\about_us\gettext.py:56 .\apps\category\gettext.py:59
 #: .\apps\contact\gettext.py:4 .\apps\forget\gettext.py:71
@@ -450,7 +465,7 @@ msgstr ""
 #: .\apps\register\gettext.py:27 .\apps\reset\gettext.py:113
 #: .\apps\search\gettext.py:56 .\apps\single\gettext.py:43
 msgid "Trending"
-msgstr ""
+msgstr "يۈزلىنىش"
 
 #: .\apps\about_us\gettext.py:57 .\apps\category\gettext.py:10
 #: .\apps\contact\gettext.py:73 .\apps\forget\gettext.py:32
@@ -458,7 +473,7 @@ msgstr ""
 #: .\apps\register\gettext.py:86 .\apps\reset\gettext.py:64
 #: .\apps\search\gettext.py:43 .\apps\single\gettext.py:131
 msgid "Example 4"
-msgstr ""
+msgstr "مىسال 4"
 
 #: .\apps\about_us\gettext.py:58 .\apps\category\gettext.py:40
 #: .\apps\contact\gettext.py:118 .\apps\forget\gettext.py:44
@@ -466,7 +481,7 @@ msgstr ""
 #: .\apps\register\gettext.py:108 .\apps\reset\gettext.py:3
 #: .\apps\search\gettext.py:46 .\apps\single\gettext.py:75
 msgid "About"
-msgstr ""
+msgstr "ھەققىدە"
 
 #: .\apps\about_us\gettext.py:59 .\apps\category\gettext.py:115
 #: .\apps\contact\gettext.py:11 .\apps\forget\gettext.py:73
@@ -474,7 +489,7 @@ msgstr ""
 #: .\apps\register\gettext.py:73 .\apps\reset\gettext.py:111
 #: .\apps\search\gettext.py:40 .\apps\single\gettext.py:152
 msgid "More Templates "
-msgstr ""
+msgstr "تېخىمۇ كۆپ قېلىپلار "
 
 #: .\apps\about_us\gettext.py:60 .\apps\category\gettext.py:8
 #: .\apps\contact\gettext.py:93 .\apps\forget\gettext.py:30
@@ -482,7 +497,7 @@ msgstr ""
 #: .\apps\register\gettext.py:80 .\apps\reset\gettext.py:63
 #: .\apps\search\gettext.py:35 .\apps\single\gettext.py:8
 msgid "Creative Mind"
-msgstr ""
+msgstr "ئىجادىي ئەقىل"
 
 #: .\apps\about_us\gettext.py:61 .\apps\category\gettext.py:42
 #: .\apps\contact\gettext.py:8 .\apps\forget\gettext.py:31
@@ -490,7 +505,7 @@ msgstr ""
 #: .\apps\register\gettext.py:126 .\apps\reset\gettext.py:73
 #: .\apps\search\gettext.py:7 .\apps\single\gettext.py:78
 msgid "模板之家"
-msgstr ""
+msgstr "模板 之 家"
 
 #: .\apps\about_us\gettext.py:62 .\apps\category\gettext.py:77
 #: .\apps\contact\gettext.py:12 .\apps\forget\gettext.py:83
@@ -498,7 +513,7 @@ msgstr ""
 #: .\apps\register\gettext.py:35 .\apps\reset\gettext.py:79
 #: .\apps\search\gettext.py:41 .\apps\single\gettext.py:68
 msgid "Example 17"
-msgstr ""
+msgstr "مىسال 17"
 
 #: .\apps\about_us\gettext.py:63 .\apps\category\gettext.py:17
 #: .\apps\contact\gettext.py:102 .\apps\forget\gettext.py:36
@@ -506,7 +521,7 @@ msgstr ""
 #: .\apps\register\gettext.py:62 .\apps\reset\gettext.py:30
 #: .\apps\search\gettext.py:67 .\apps\single\gettext.py:54
 msgid "Page"
-msgstr ""
+msgstr "بەت"
 
 #: .\apps\about_us\gettext.py:64 .\apps\contact\gettext.py:59
 #: .\apps\forget\gettext.py:25 .\apps\login\gettext.py:125
@@ -514,7 +529,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:37 .\apps\search\gettext.py:103
 #: .\apps\single\gettext.py:119
 msgid "Nulla facilisis odio quis gravida vestibulum "
-msgstr ""
+msgstr "Nulla facilisis odio quis gravida vestibulum "
 
 #: .\apps\about_us\gettext.py:65 .\apps\category\gettext.py:90
 #: .\apps\contact\gettext.py:36 .\apps\forget\gettext.py:112
@@ -522,7 +537,7 @@ msgstr ""
 #: .\apps\register\gettext.py:76 .\apps\reset\gettext.py:123
 #: .\apps\search\gettext.py:57 .\apps\single\gettext.py:34
 msgid " You can add"
-msgstr ""
+msgstr " قوشسىڭىز بولىدۇ"
 
 #: .\apps\about_us\gettext.py:66 .\apps\category\gettext.py:107
 #: .\apps\contact\gettext.py:82 .\apps\forget\gettext.py:113
@@ -530,7 +545,7 @@ msgstr ""
 #: .\apps\register\gettext.py:33 .\apps\reset\gettext.py:94
 #: .\apps\search\gettext.py:120 .\apps\single\gettext.py:100
 msgid " Your own items"
-msgstr ""
+msgstr " ئۆزىڭىزنىڭ بۇيۇملىرى"
 
 #: .\apps\about_us\gettext.py:67 .\apps\category\gettext.py:13
 #: .\apps\contact\gettext.py:121 .\apps\forget\gettext.py:126
@@ -538,7 +553,7 @@ msgstr ""
 #: .\apps\register\gettext.py:38 .\apps\reset\gettext.py:51
 #: .\apps\search\gettext.py:125 .\apps\single\gettext.py:80
 msgid "December 10, 2016"
-msgstr ""
+msgstr "2016-يىل 10-دېكابىر"
 
 #: .\apps\about_us\gettext.py:68 .\apps\category\gettext.py:32
 #: .\apps\contact\gettext.py:33 .\apps\forget\gettext.py:118
@@ -546,7 +561,7 @@ msgstr ""
 #: .\apps\register\gettext.py:88 .\apps\reset\gettext.py:17
 #: .\apps\search\gettext.py:21 .\apps\single\gettext.py:40
 msgid "Category"
-msgstr ""
+msgstr "سەھىپە"
 
 #: .\apps\about_us\gettext.py:69 .\apps\category\gettext.py:15
 #: .\apps\contact\gettext.py:100 .\apps\forget\gettext.py:89
@@ -554,7 +569,7 @@ msgstr ""
 #: .\apps\register\gettext.py:82 .\apps\reset\gettext.py:84
 #: .\apps\search\gettext.py:101 .\apps\single\gettext.py:134
 msgid "503"
-msgstr ""
+msgstr "503"
 
 #: .\apps\about_us\gettext.py:70 .\apps\category\gettext.py:113
 #: .\apps\contact\gettext.py:56 .\apps\forget\gettext.py:114
@@ -562,7 +577,7 @@ msgstr ""
 #: .\apps\register\gettext.py:53 .\apps\reset\gettext.py:69
 #: .\apps\search\gettext.py:88 .\apps\single\gettext.py:110
 msgid "Example 10"
-msgstr ""
+msgstr "مىسال 10"
 
 #: .\apps\about_us\gettext.py:71 .\apps\category\gettext.py:81
 #: .\apps\contact\gettext.py:43 .\apps\forget\gettext.py:19
@@ -570,7 +585,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:9 .\apps\search\gettext.py:37
 #: .\apps\single\gettext.py:42
 msgid "Menu"
-msgstr ""
+msgstr "تىزىملىك"
 
 #: .\apps\about_us\gettext.py:72 .\apps\category\gettext.py:101
 #: .\apps\contact\gettext.py:76 .\apps\forget\gettext.py:65
@@ -578,7 +593,7 @@ msgstr ""
 #: .\apps\register\gettext.py:36 .\apps\reset\gettext.py:90
 #: .\apps\search\gettext.py:83 .\apps\single\gettext.py:122
 msgid "Contact"
-msgstr ""
+msgstr "ئالاقىلىشىڭ"
 
 #: .\apps\about_us\gettext.py:73 .\apps\category\gettext.py:64
 #: .\apps\contact\gettext.py:124 .\apps\forget\gettext.py:21
@@ -586,7 +601,7 @@ msgstr ""
 #: .\apps\register\gettext.py:120 .\apps\reset\gettext.py:118
 #: .\apps\search\gettext.py:4 .\apps\single\gettext.py:16
 msgid "Home"
-msgstr ""
+msgstr "ئۆي"
 
 #: .\apps\about_us\gettext.py:74 .\apps\category\gettext.py:7
 #: .\apps\contact\gettext.py:15 .\apps\forget\gettext.py:84
@@ -594,7 +609,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:97 .\apps\search\gettext.py:66
 #: .\apps\single\gettext.py:103
 msgid "Duis aute irure dolor in reprehenderit in voluptate"
-msgstr ""
+msgstr "Duis aute irure dolor in reprenderit in voluptate"
 
 #: .\apps\about_us\gettext.py:75 .\apps\category\gettext.py:124
 #: .\apps\contact\gettext.py:78 .\apps\forget\gettext.py:75
@@ -602,7 +617,7 @@ msgstr ""
 #: .\apps\register\gettext.py:102 .\apps\reset\gettext.py:116
 #: .\apps\search\gettext.py:8 .\apps\single\gettext.py:127
 msgid "Mobile "
-msgstr ""
+msgstr "كۆچمە "
 
 #: .\apps\about_us\gettext.py:76 .\apps\category\gettext.py:36
 #: .\apps\contact\gettext.py:111 .\apps\forget\gettext.py:9
@@ -610,11 +625,11 @@ msgstr ""
 #: .\apps\register\gettext.py:91 .\apps\reset\gettext.py:34
 #: .\apps\search\gettext.py:63 .\apps\single\gettext.py:145
 msgid "Column 4"
-msgstr ""
+msgstr "4-ستون"
 
 #: .\apps\about_us\gettext.py:77
 msgid "Contact Us"
-msgstr ""
+msgstr "بىز بىلەن ئالاقىلىشىڭ"
 
 #: .\apps\about_us\gettext.py:78 .\apps\category\gettext.py:120
 #: .\apps\contact\gettext.py:96 .\apps\forget\gettext.py:109
@@ -622,7 +637,7 @@ msgstr ""
 #: .\apps\register\gettext.py:83 .\apps\reset\gettext.py:107
 #: .\apps\search\gettext.py:98 .\apps\single\gettext.py:74
 msgid "Software"
-msgstr ""
+msgstr "يۇمشاق دېتال"
 
 #: .\apps\about_us\gettext.py:79 .\apps\category\gettext.py:79
 #: .\apps\contact\gettext.py:53 .\apps\forget\gettext.py:58
@@ -630,7 +645,7 @@ msgstr ""
 #: .\apps\register\gettext.py:128 .\apps\reset\gettext.py:26
 #: .\apps\search\gettext.py:54 .\apps\single\gettext.py:161
 msgid " Comments"
-msgstr ""
+msgstr " باھا"
 
 #: .\apps\about_us\gettext.py:80 .\apps\category\gettext.py:29
 #: .\apps\contact\gettext.py:117 .\apps\forget\gettext.py:4
@@ -638,7 +653,7 @@ msgstr ""
 #: .\apps\register\gettext.py:18 .\apps\reset\gettext.py:41
 #: .\apps\search\gettext.py:96 .\apps\single\gettext.py:143
 msgid "at 6.00PM"
-msgstr ""
+msgstr "at 6.00PM"
 
 #: .\apps\about_us\gettext.py:81 .\apps\category\gettext.py:6
 #: .\apps\contact\gettext.py:107 .\apps\forget\gettext.py:50
@@ -646,7 +661,7 @@ msgstr ""
 #: .\apps\register\gettext.py:125 .\apps\reset\gettext.py:77
 #: .\apps\search\gettext.py:74 .\apps\single\gettext.py:67
 msgid "Register"
-msgstr ""
+msgstr "تىزىملىتىڭ"
 
 #: .\apps\about_us\gettext.py:82 .\apps\category\gettext.py:12
 #: .\apps\contact\gettext.py:19 .\apps\forget\gettext.py:52
@@ -654,7 +669,7 @@ msgstr ""
 #: .\apps\register\gettext.py:66 .\apps\reset\gettext.py:57
 #: .\apps\search\gettext.py:127 .\apps\single\gettext.py:18
 msgid "CSS3"
-msgstr ""
+msgstr "CSS3"
 
 #: .\apps\about_us\gettext.py:83 .\apps\category\gettext.py:96
 #: .\apps\contact\gettext.py:24 .\apps\forget\gettext.py:80
@@ -662,7 +677,7 @@ msgstr ""
 #: .\apps\register\gettext.py:85 .\apps\reset\gettext.py:83
 #: .\apps\search\gettext.py:39 .\apps\single\gettext.py:154
 msgid "Hot"
-msgstr ""
+msgstr "قىزىق"
 
 #: .\apps\about_us\gettext.py:84 .\apps\category\gettext.py:56
 #: .\apps\contact\gettext.py:95 .\apps\forget\gettext.py:93
@@ -670,7 +685,7 @@ msgstr ""
 #: .\apps\register\gettext.py:63 .\apps\reset\gettext.py:81
 #: .\apps\search\gettext.py:97 .\apps\single\gettext.py:62
 msgid "Login"
-msgstr ""
+msgstr "كىرىش"
 
 #: .\apps\about_us\gettext.py:85 .\apps\category\gettext.py:75
 #: .\apps\contact\gettext.py:97 .\apps\forget\gettext.py:2
@@ -678,7 +693,7 @@ msgstr ""
 #: .\apps\register\gettext.py:9 .\apps\reset\gettext.py:108
 #: .\apps\search\gettext.py:116 .\apps\single\gettext.py:48
 msgid "Column 1"
-msgstr ""
+msgstr "Column 1"
 
 #: .\apps\about_us\gettext.py:86 .\apps\category\gettext.py:88
 #: .\apps\contact\gettext.py:114 .\apps\forget\gettext.py:79
@@ -686,7 +701,7 @@ msgstr ""
 #: .\apps\register\gettext.py:15 .\apps\reset\gettext.py:72
 #: .\apps\search\gettext.py:70 .\apps\single\gettext.py:63
 msgid "Ionic Framework 1"
-msgstr ""
+msgstr "Ionic Framework 1"
 
 #: .\apps\about_us\gettext.py:87 .\apps\category\gettext.py:72
 #: .\apps\contact\gettext.py:7 .\apps\forget\gettext.py:39
@@ -694,7 +709,7 @@ msgstr ""
 #: .\apps\register\gettext.py:43 .\apps\reset\gettext.py:43
 #: .\apps\search\gettext.py:117 .\apps\single\gettext.py:73
 msgid "Example 7"
-msgstr ""
+msgstr "مىسال 7"
 
 #: .\apps\about_us\gettext.py:88 .\apps\category\gettext.py:14
 #: .\apps\contact\gettext.py:92 .\apps\forget\gettext.py:29
@@ -702,7 +717,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:96 .\apps\search\gettext.py:72
 #: .\apps\single\gettext.py:24
 msgid " This is an example"
-msgstr ""
+msgstr " بۇ بىر مىسال"
 
 #: .\apps\about_us\gettext.py:89 .\apps\category\gettext.py:55
 #: .\apps\contact\gettext.py:51 .\apps\forget\gettext.py:56
@@ -710,7 +725,7 @@ msgstr ""
 #: .\apps\register\gettext.py:30 .\apps\reset\gettext.py:58
 #: .\apps\search\gettext.py:51 .\apps\single\gettext.py:20
 msgid "Pages "
-msgstr ""
+msgstr "بەتلەر "
 
 #: .\apps\about_us\gettext.py:90 .\apps\category\gettext.py:71
 #: .\apps\contact\gettext.py:41 .\apps\forget\gettext.py:11
@@ -718,7 +733,7 @@ msgstr ""
 #: .\apps\register\gettext.py:65 .\apps\reset\gettext.py:52
 #: .\apps\search\gettext.py:73 .\apps\single\gettext.py:31
 msgid "Column "
-msgstr ""
+msgstr "ستون "
 
 #: .\apps\about_us\gettext.py:91 .\apps\category\gettext.py:93
 #: .\apps\contact\gettext.py:98 .\apps\forget\gettext.py:67
@@ -726,7 +741,7 @@ msgstr ""
 #: .\apps\register\gettext.py:98 .\apps\reset\gettext.py:93
 #: .\apps\search\gettext.py:52 .\apps\single\gettext.py:23
 msgid "Bootstrap 3"
-msgstr ""
+msgstr "Bootstrap 3"
 
 #: .\apps\about_us\gettext.py:92 .\apps\category\gettext.py:57
 #: .\apps\contact\gettext.py:44 .\apps\forget\gettext.py:17
@@ -734,7 +749,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:66 .\apps\search\gettext.py:81
 #: .\apps\single\gettext.py:9
 msgid "Standard"
-msgstr ""
+msgstr "ئۆلچەملىك"
 
 #: .\apps\about_us\gettext.py:93 .\apps\category\gettext.py:85
 #: .\apps\contact\gettext.py:94 .\apps\forget\gettext.py:23
@@ -742,7 +757,7 @@ msgstr ""
 #: .\apps\register\gettext.py:55 .\apps\reset\gettext.py:75
 #: .\apps\search\gettext.py:86 .\apps\single\gettext.py:113
 msgid "Featured Posts"
-msgstr ""
+msgstr "Featured Posts"
 
 #: .\apps\about_us\gettext.py:94 .\apps\category\gettext.py:39
 #: .\apps\contact\gettext.py:55 .\apps\forget\gettext.py:97
@@ -750,7 +765,7 @@ msgstr ""
 #: .\apps\register\gettext.py:112 .\apps\reset\gettext.py:15
 #: .\apps\search\gettext.py:60 .\apps\single\gettext.py:58
 msgid "Example 6"
-msgstr ""
+msgstr "مىسال 6"
 
 #: .\apps\about_us\gettext.py:95 .\apps\category\gettext.py:63
 #: .\apps\contact\gettext.py:80 .\apps\forget\gettext.py:82
@@ -759,7 +774,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:112 .\apps\search\gettext.py:76
 #: .\apps\single\gettext.py:92
 msgid "Newsletter"
-msgstr ""
+msgstr "Newsletter"
 
 #: .\apps\about_us\gettext.py:96 .\apps\category\gettext.py:54
 #: .\apps\contact\gettext.py:40 .\apps\forget\gettext.py:63
@@ -769,6 +784,8 @@ msgstr ""
 msgid ""
 " \t\t\t\t\t\t\tCOPYRIGHT &copy; MAGZ 2017. ALL RIGHT RESERVED. \t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\tCOPYRIGHT & copy; MAGZ 2017. بارلىق ھوقۇقلار ساقلاپ قېلىندى. "
+"\t\t\t\t\t\t\t"
 
 #: .\apps\about_us\gettext.py:97 .\apps\category\gettext.py:50
 #: .\apps\contact\gettext.py:46 .\apps\forget\gettext.py:49
@@ -776,7 +793,7 @@ msgstr ""
 #: .\apps\register\gettext.py:69 .\apps\reset\gettext.py:42
 #: .\apps\search\gettext.py:9 .\apps\single\gettext.py:22
 msgid "Single"
-msgstr ""
+msgstr "بويتاق"
 
 #: .\apps\about_us\gettext.py:98 .\apps\category\gettext.py:116
 #: .\apps\contact\gettext.py:67 .\apps\forget\gettext.py:85
@@ -784,7 +801,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:89 .\apps\search\gettext.py:34
 #: .\apps\single\gettext.py:137
 msgid "404"
-msgstr ""
+msgstr "404"
 
 #: .\apps\about_us\gettext.py:99 .\apps\category\gettext.py:92
 #: .\apps\contact\gettext.py:10 .\apps\forget\gettext.py:15
@@ -792,7 +809,7 @@ msgstr ""
 #: .\apps\register\gettext.py:130 .\apps\reset\gettext.py:106
 #: .\apps\search\gettext.py:102 .\apps\single\gettext.py:64
 msgid "Example 16"
-msgstr ""
+msgstr "مىسال 16"
 
 #: .\apps\about_us\gettext.py:100 .\apps\category\gettext.py:76
 #: .\apps\contact\gettext.py:17 .\apps\forget\gettext.py:108
@@ -800,7 +817,7 @@ msgstr ""
 #: .\apps\register\gettext.py:22 .\apps\reset\gettext.py:28
 #: .\apps\search\gettext.py:129 .\apps\single\gettext.py:86
 msgid "Example 15"
-msgstr ""
+msgstr "مىسال 15"
 
 #: .\apps\about_us\gettext.py:101 .\apps\category\gettext.py:87
 #: .\apps\contact\gettext.py:85 .\apps\forget\gettext.py:103
@@ -808,7 +825,7 @@ msgstr ""
 #: .\apps\register\gettext.py:109 .\apps\reset\gettext.py:124
 #: .\apps\search\gettext.py:45 .\apps\single\gettext.py:120
 msgid "Brainware"
-msgstr ""
+msgstr "Brainware"
 
 #: .\apps\about_us\gettext.py:102
 msgid ""
@@ -818,6 +835,11 @@ msgid ""
 "elementum aliquet, mauris ante dictum dui, eu pellentesque arcu ante eget "
 "libero. Sed consectetur fermentum felis sit amet eleifend. \t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\tSed nec feugiat sem, nec ultrices orci. Duis ئۇلترا ئۇلترا "
+"بىنەپشە نۇر. Aliquam convallis diam eu lectus porta, sit amet viverra nibh "
+"tincidunt. Etiam et luctus nisi. پۈتۈن سان پوسېرې ، ئېلېمېنت ئاليۇستىكى "
+"ئاۋگۇ ، ماۋرىس ئانتې دىكتۇم dui ، e pellentesque arcu ante eget libero. Sed "
+"consectetur fermentum felis amet eleifend. \t\t\t\t\t\t\t"
 
 #: .\apps\about_us\gettext.py:103 .\apps\category\gettext.py:4
 #: .\apps\contact\gettext.py:88 .\apps\forget\gettext.py:120
@@ -825,7 +847,7 @@ msgstr ""
 #: .\apps\register\gettext.py:103 .\apps\reset\gettext.py:125
 #: .\apps\search\gettext.py:42 .\apps\single\gettext.py:44
 msgid "网页模板"
-msgstr ""
+msgstr "网页 模板"
 
 #: .\apps\about_us\gettext.py:104 .\apps\category\gettext.py:123
 #: .\apps\contact\gettext.py:21 .\apps\forget\gettext.py:78
@@ -833,7 +855,7 @@ msgstr ""
 #: .\apps\register\gettext.py:81 .\apps\reset\gettext.py:65
 #: .\apps\search\gettext.py:26 .\apps\single\gettext.py:53
 msgid "Travel"
-msgstr ""
+msgstr "ساياھەت"
 
 #: .\apps\about_us\gettext.py:105 .\apps\category\gettext.py:30
 #: .\apps\contact\gettext.py:5 .\apps\forget\gettext.py:72
@@ -841,7 +863,7 @@ msgstr ""
 #: .\apps\register\gettext.py:64 .\apps\reset\gettext.py:78
 #: .\apps\search\gettext.py:68 .\apps\single\gettext.py:105
 msgid "Web"
-msgstr ""
+msgstr "تور"
 
 #: .\apps\about_us\gettext.py:106 .\apps\category\gettext.py:41
 #: .\apps\contact\gettext.py:101 .\apps\forget\gettext.py:102
@@ -849,7 +871,7 @@ msgstr ""
 #: .\apps\register\gettext.py:56 .\apps\reset\gettext.py:32
 #: .\apps\search\gettext.py:12 .\apps\single\gettext.py:104
 msgid "Company Info"
-msgstr ""
+msgstr "شىركەت ئۇچۇرى"
 
 #: .\apps\about_us\gettext.py:107 .\apps\category\gettext.py:33
 #: .\apps\contact\gettext.py:35 .\apps\forget\gettext.py:74
@@ -857,7 +879,7 @@ msgstr ""
 #: .\apps\reset\gettext.py:6 .\apps\search\gettext.py:69
 #: .\apps\single\gettext.py:13
 msgid "Popular Tags "
-msgstr ""
+msgstr "داڭلىق خەتكۈچلەر "
 
 #: .\apps\about_us\gettext.py:108 .\apps\category\gettext.py:110
 #: .\apps\contact\gettext.py:52 .\apps\forget\gettext.py:37
@@ -865,7 +887,7 @@ msgstr ""
 #: .\apps\register\gettext.py:94 .\apps\reset\gettext.py:49
 #: .\apps\search\gettext.py:110 .\apps\single\gettext.py:101
 msgid "Example 11"
-msgstr ""
+msgstr "مىسال 11"
 
 #: .\apps\about_us\gettext.py:109 .\apps\category\gettext.py:91
 #: .\apps\contact\gettext.py:74 .\apps\forget\gettext.py:10
@@ -875,6 +897,8 @@ msgstr ""
 #: .\apps\single\gettext.py:90
 msgid "By subscribing you will receive new articles in your email."
 msgstr ""
+"مۇشتەرى بولۇش ئارقىلىق ئېلېكترونلۇق خەت ساندۇقىڭىزدا يېڭى ماقالىلەرنى "
+"تاپشۇرۇۋالىسىز."
 
 #: .\apps\about_us\gettext.py:110 .\apps\category\gettext.py:66
 #: .\apps\contact\gettext.py:75 .\apps\forget\gettext.py:62
@@ -882,7 +906,7 @@ msgstr ""
 #: .\apps\register\gettext.py:6 .\apps\reset\gettext.py:105
 #: .\apps\search\gettext.py:71 .\apps\single\gettext.py:136
 msgid "Example 9"
-msgstr ""
+msgstr "مىسال 9"
 
 #: .\apps\about_us\gettext.py:111 .\apps\category\gettext.py:25
 #: .\apps\contact\gettext.py:105 .\apps\forget\gettext.py:42
@@ -890,7 +914,7 @@ msgstr ""
 #: .\apps\register\gettext.py:61 .\apps\reset\gettext.py:55
 #: .\apps\search\gettext.py:13 .\apps\single\gettext.py:87
 msgid "Authentication "
-msgstr ""
+msgstr "دەلىللەش "
 
 #: .\apps\about_us\gettext.py:112 .\apps\category\gettext.py:74
 #: .\apps\contact\gettext.py:126 .\apps\forget\gettext.py:106
@@ -898,11 +922,11 @@ msgstr ""
 #: .\apps\register\gettext.py:34 .\apps\reset\gettext.py:27
 #: .\apps\search\gettext.py:10 .\apps\single\gettext.py:95
 msgid "Column 3"
-msgstr ""
+msgstr "Column 3"
 
 #: .\apps\about_us\gettext.py:113
 msgid "We will tell you who we are"
-msgstr ""
+msgstr "بىز كىم ئىكەنلىكىمىزنى ئېيتىپ بېرىمىز"
 
 #: .\apps\about_us\gettext.py:114 .\apps\category\gettext.py:38
 #: .\apps\contact\gettext.py:91 .\apps\forget\gettext.py:51
@@ -910,7 +934,7 @@ msgstr ""
 #: .\apps\register\gettext.py:46 .\apps\reset\gettext.py:38
 #: .\apps\search\gettext.py:95 .\apps\single\gettext.py:55
 msgid "403"
-msgstr ""
+msgstr "403"
 
 #: .\apps\about_us\gettext.py:115 .\apps\category\gettext.py:24
 #: .\apps\contact\gettext.py:125 .\apps\forget\gettext.py:91
@@ -918,7 +942,7 @@ msgstr ""
 #: .\apps\register\gettext.py:75 .\apps\reset\gettext.py:13
 #: .\apps\search\gettext.py:20 .\apps\single\gettext.py:56
 msgid "December 14, 2016"
-msgstr ""
+msgstr "2016-يىل 14-دېكابىر"
 
 #: .\apps\about_us\gettext.py:116 .\apps\category\gettext.py:27
 #: .\apps\contact\gettext.py:106 .\apps\forget\gettext.py:55
@@ -926,7 +950,7 @@ msgstr ""
 #: .\apps\register\gettext.py:29 .\apps\reset\gettext.py:117
 #: .\apps\search\gettext.py:16 .\apps\single\gettext.py:19
 msgid "Example 5"
-msgstr ""
+msgstr "مىسال 5"
 
 #: .\apps\about_us\gettext.py:117 .\apps\category\gettext.py:65
 #: .\apps\contact\gettext.py:127 .\apps\forget\gettext.py:24
@@ -934,7 +958,7 @@ msgstr ""
 #: .\apps\register\gettext.py:117 .\apps\reset\gettext.py:71
 #: .\apps\search\gettext.py:18 .\apps\single\gettext.py:117
 msgid "Example 20"
-msgstr ""
+msgstr "مىسال 20"
 
 #: .\apps\about_us\gettext.py:118 .\apps\category\gettext.py:5
 #: .\apps\contact\gettext.py:128 .\apps\forget\gettext.py:18
@@ -942,7 +966,7 @@ msgstr ""
 #: .\apps\register\gettext.py:49 .\apps\reset\gettext.py:86
 #: .\apps\search\gettext.py:100 .\apps\single\gettext.py:116
 msgid "Native"
-msgstr ""
+msgstr "يەرلىك"
 
 #: .\apps\about_us\gettext.py:119 .\apps\category\gettext.py:103
 #: .\apps\contact\gettext.py:129 .\apps\forget\gettext.py:87
@@ -950,11 +974,11 @@ msgstr ""
 #: .\apps\register\gettext.py:57 .\apps\reset\gettext.py:48
 #: .\apps\search\gettext.py:84 .\apps\single\gettext.py:84
 msgid "Search"
-msgstr ""
+msgstr "ئىزدەش"
 
 #: .\apps\about_us\gettext.py:120
 msgid " \t\t\t\t\t\t\t\tHave a question? "
-msgstr ""
+msgstr " \t\t\t\t\t\t\t\tسوئالىڭىز بارمۇ؟ "
 
 #: .\apps\about_us\gettext.py:121
 msgid ""
@@ -967,6 +991,13 @@ msgid ""
 "non \t\t\t\t\t\t\t\tproident, sunt in culpa qui officia deserunt mollit anim "
 "id est laborum. \t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\tلورېم ئىپسۇم دولور ئولتۇرۇش ئامېت ، كونسېرتتۇرنىڭ "
+"ماسلىشىشچان سەرخىللىرى ، sed do eiusmod tempor incididunt ut labore et "
+"dolore magna aliqua. Ut enim ad minim veniam, quis nostrud چېنىقىش ullamco "
+"laboris nisi ut aliquip ex ea commodo ئاقىۋەت. Duis aute irure dolor in "
+"reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla "
+"pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui "
+"officia deserunt mollit anim id est laborum. \t\t\t\t\t\t\t"
 
 #: .\apps\about_us\gettext.py:122 .\apps\category\gettext.py:61
 #: .\apps\contact\gettext.py:48 .\apps\forget\gettext.py:69
@@ -974,7 +1005,7 @@ msgstr ""
 #: .\apps\register\gettext.py:93 .\apps\reset\gettext.py:29
 #: .\apps\search\gettext.py:124 .\apps\single\gettext.py:140
 msgid "Hybrid "
-msgstr ""
+msgstr "Hybrid "
 
 #: .\apps\about_us\gettext.py:123 .\apps\category\gettext.py:48
 #: .\apps\contact\gettext.py:120 .\apps\forget\gettext.py:38
@@ -982,11 +1013,11 @@ msgstr ""
 #: .\apps\register\gettext.py:95 .\apps\reset\gettext.py:60
 #: .\apps\search\gettext.py:107 .\apps\single\gettext.py:30
 msgid "Internet"
-msgstr ""
+msgstr "ئىنتېرنېت"
 
 #: .\apps\about_us\gettext.py:124
 msgid "About Us"
-msgstr ""
+msgstr "بىز ھەققىدە"
 
 #: .\apps\about_us\gettext.py:125 .\apps\category\gettext.py:80
 #: .\apps\contact\gettext.py:108 .\apps\forget\gettext.py:92
@@ -994,7 +1025,7 @@ msgstr ""
 #: .\apps\register\gettext.py:106 .\apps\reset\gettext.py:88
 #: .\apps\search\gettext.py:58 .\apps\single\gettext.py:96
 msgid "Column 2"
-msgstr ""
+msgstr "Column 2"
 
 #: .\apps\about_us\gettext.py:126 .\apps\category\gettext.py:102
 #: .\apps\contact\gettext.py:32 .\apps\forget\gettext.py:43
@@ -1002,7 +1033,7 @@ msgstr ""
 #: .\apps\register\gettext.py:96 .\apps\reset\gettext.py:74
 #: .\apps\search\gettext.py:55 .\apps\single\gettext.py:41
 msgid "December 13, 2016"
-msgstr ""
+msgstr "2016-يىلى 13-دېكابىر"
 
 #: .\apps\about_us\gettext.py:127 .\apps\category\gettext.py:89
 #: .\apps\contact\gettext.py:54 .\apps\forget\gettext.py:13
@@ -1010,7 +1041,7 @@ msgstr ""
 #: .\apps\register\gettext.py:97 .\apps\reset\gettext.py:45
 #: .\apps\search\gettext.py:27 .\apps\single\gettext.py:69
 msgid "Example 13"
-msgstr ""
+msgstr "مىسال 13"
 
 #: .\apps\about_us\gettext.py:128 .\apps\category\gettext.py:51
 #: .\apps\contact\gettext.py:113 .\apps\forget\gettext.py:125
@@ -1018,7 +1049,7 @@ msgstr ""
 #: .\apps\register\gettext.py:78 .\apps\reset\gettext.py:119
 #: .\apps\search\gettext.py:114 .\apps\single\gettext.py:71
 msgid " Favorite"
-msgstr ""
+msgstr " ئامراق"
 
 #: .\apps\about_us\gettext.py:129 .\apps\category\gettext.py:78
 #: .\apps\contact\gettext.py:110 .\apps\forget\gettext.py:22
@@ -1026,7 +1057,7 @@ msgstr ""
 #: .\apps\register\gettext.py:121 .\apps\reset\gettext.py:31
 #: .\apps\search\gettext.py:87 .\apps\single\gettext.py:83
 msgid "Healthy"
-msgstr ""
+msgstr "ساغلام"
 
 #: .\apps\about_us\gettext.py:130 .\apps\category\gettext.py:84
 #: .\apps\contact\gettext.py:77 .\apps\forget\gettext.py:41
@@ -1034,11 +1065,11 @@ msgstr ""
 #: .\apps\register\gettext.py:40 .\apps\reset\gettext.py:82
 #: .\apps\search\gettext.py:28 .\apps\single\gettext.py:135
 msgid "AnguarJS"
-msgstr ""
+msgstr "AnguarJS"
 
 #: .\apps\about_us\gettext.py:131
 msgid "Pellentesque"
-msgstr ""
+msgstr "Pellentesque"
 
 #: .\apps\about_us\gettext.py:132 .\apps\category\gettext.py:104
 #: .\apps\contact\gettext.py:115 .\apps\forget\gettext.py:111
@@ -1046,7 +1077,7 @@ msgstr ""
 #: .\apps\register\gettext.py:19 .\apps\reset\gettext.py:16
 #: .\apps\search\gettext.py:94 .\apps\single\gettext.py:102
 msgid " Logout"
-msgstr ""
+msgstr " Logout"
 
 #: .\apps\about_us\gettext.py:133 .\apps\category\gettext.py:105
 #: .\apps\contact\gettext.py:18 .\apps\forget\gettext.py:53
@@ -1054,348 +1085,356 @@ msgstr ""
 #: .\apps\reset\gettext.py:102 .\apps\search\gettext.py:5
 #: .\apps\single\gettext.py:158
 msgid " Mega menu is a new feature"
-msgstr ""
+msgstr " مېگا تىزىملىكى يېڭى ئىقتىدار"
 
 #: .\apps\category\gettext.py:21 .\apps\index\gettext.py:3
 #: .\apps\search\gettext.py:118
 msgid "More"
-msgstr ""
+msgstr "تېخىمۇ كۆپ"
 
 #: .\apps\category\gettext.py:82 .\apps\single\gettext.py:153
 msgid "Recent Post"
-msgstr ""
+msgstr "يېقىنقى يازما"
 
 #: .\apps\category\gettext.py:95 .\apps\search\gettext.py:23
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: .\apps\category\gettext.py:97
 msgid "Showing all posts with category "
-msgstr ""
+msgstr "بارلىق يازمىلارنى سەھىپە بىلەن كۆرسىتىش "
 
 #: .\apps\category\gettext.py:112 .\apps\search\gettext.py:65
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: .\apps\category\gettext.py:117 .\apps\single\gettext.py:121
 msgid "Advertisement"
-msgstr ""
+msgstr "ئېلان"
 
 #: .\apps\contact\gettext.py:9
 msgid "Your message "
-msgstr ""
+msgstr "ئۇچۇرىڭىز "
 
 #: .\apps\contact\gettext.py:20
 msgid "language"
-msgstr ""
+msgstr "تىل"
 
 #: .\apps\contact\gettext.py:42 .\apps\single\gettext.py:38
 msgid "Email "
-msgstr ""
+msgstr "ئېلخەت "
 
 #: .\apps\contact\gettext.py:84
 msgid "Send Message"
-msgstr ""
+msgstr "ئۇچۇر ئەۋەتىش"
 
 #: .\apps\contact\gettext.py:89
 msgid "17303226424"
-msgstr ""
+msgstr "17303226424"
 
 #: .\apps\contact\gettext.py:99 .\apps\single\gettext.py:132
 msgid "Name "
-msgstr ""
+msgstr "ئىسمى "
 
 #: .\apps\contact\gettext.py:104
 msgid "Subject"
-msgstr ""
+msgstr "تېما"
 
 #: .\apps\contact\gettext.py:122
 msgid "3395087980@qq.com"
-msgstr ""
+msgstr "3395087980@qq.com"
 
 #: .\apps\forget\gettext.py:6
 msgid "Email                                         "
-msgstr ""
+msgstr "ئېلخەت                                         "
 
 #: .\apps\forget\gettext.py:26
 msgid "Email verification                                         "
-msgstr ""
+msgstr "ئېلېكترونلۇق خەت دەلىللەش                                         "
 
 #: .\apps\forget\gettext.py:45
 msgid "Back to login?"
-msgstr ""
+msgstr "كىرىشكە قايتىڭ؟"
 
 #: .\apps\forget\gettext.py:88 .\apps\register\gettext.py:87
 msgid "get verification code"
-msgstr ""
+msgstr "دەلىللەش كودىغا ئېرىشىش"
 
 #: .\apps\forget\models.py:8
 msgid "last name"
-msgstr ""
+msgstr "فامىلىسى"
 
 #: .\apps\forget\models.py:9
 msgid "email address"
-msgstr ""
+msgstr "ئېلخەت ئادرېسى"
 
 #: .\apps\forget\models.py:10
 msgid "user_md5"
-msgstr ""
+msgstr "user_md5"
 
 #: .\apps\index\gettext.py:4
 msgid " \t\t\t\t\t\t\t\t\tHot News \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " \t\t\t\t\t\t\t\t\tقىزىق خەۋەر \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\index\gettext.py:5
 msgid ""
 " \t\t\t\t\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor sit amet, consectetur "
 "adipisicing elit. \t\t\t\t\t\t\t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\t\t\t\t\t\t\tLorem ipsum dolor amet ، كونسېرۋاتىپلىق "
+"ماسلاشتۇرغۇچى سەرخىل. \t\t\t\t\t\t\t\t\t\t\t\t\t"
 
 #: .\apps\index\gettext.py:6
 msgid " Featured"
-msgstr ""
+msgstr " Featured"
 
 #: .\apps\index\gettext.py:7
 msgid "Best Of The Week"
-msgstr ""
+msgstr "ھەپتىنىڭ ئەڭ ياخشىسى"
 
 #: .\apps\index\gettext.py:8
 msgid " Comments \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " باھا \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\index\gettext.py:9
 msgid "Previous"
-msgstr ""
+msgstr "ئالدىنقى"
 
 #: .\apps\index\gettext.py:10
 msgid "Photos"
-msgstr ""
+msgstr "سۈرەتلەر"
 
 #: .\apps\index\gettext.py:11
 msgid "Just Another News "
-msgstr ""
+msgstr "پەقەت باشقا بىر خەۋەر "
 
 #: .\apps\index\gettext.py:12
 msgid "Videos \t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr "سىنلار \t\t\t\t\t\t\t\t"
 
 #: .\apps\index\gettext.py:13
 msgid "Trending Tags"
-msgstr ""
+msgstr "يۈزلىنىش خەتكۈچلىرى"
 
 #: .\apps\index\gettext.py:15
 msgid "Sidebar"
-msgstr ""
+msgstr "يانبالدىقى"
 
 #: .\apps\index\gettext.py:16
 msgid "Next"
-msgstr ""
+msgstr "كېيىنكى"
 
 #: .\apps\index\gettext.py:17
 msgid "Popular "
-msgstr ""
+msgstr "ئاممىباب "
 
 #: .\apps\index\gettext.py:19
 msgid "Posts"
-msgstr ""
+msgstr "يازمىلار"
 
 #: .\apps\index\gettext.py:20
 msgid " Recomended \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " تەۋسىيە قىلىندى \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\index\gettext.py:21
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 #: .\apps\index\gettext.py:22
 msgid "Sponsored"
-msgstr ""
+msgstr "قوللىدى"
 
 #: .\apps\index\gettext.py:24
 msgid "See All Authors"
-msgstr ""
+msgstr "بارلىق ئاپتورلارنى كۆرۈڭ"
 
 #: .\apps\index\gettext.py:25
 msgid "Focus"
-msgstr ""
+msgstr "فوكۇس نۇقتىسى"
 
 #: .\apps\index\gettext.py:27
 msgid "Tip!"
-msgstr ""
+msgstr "تەكلىپ!"
 
 #: .\apps\login\gettext.py:10
 msgid "Create one"
-msgstr ""
+msgstr "بىرنى قۇر"
 
 #: .\apps\login\gettext.py:22
 msgid "Username                                     "
-msgstr ""
+msgstr "ئىشلەتكۈچى ئىسمى                                     "
 
 #: .\apps\login\gettext.py:41
 msgid ""
 " {# "
 "dfghjkjhgfdghjgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg#}                                     "
-msgstr ""
+msgstr " {# dg                                     "
 
 #: .\apps\login\gettext.py:69
 msgid "Don't have an account?"
-msgstr ""
+msgstr "ھېساباتىڭىز يوقمۇ؟"
 
 #: .\apps\login\gettext.py:77
 msgid " Login with Facebook"
-msgstr ""
+msgstr " Facebook بىلەن كىرىش"
 
 #: .\apps\login\gettext.py:97
 msgid " \t\t\t\t\t\t\t\t\tor \t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " \t\t\t\t\t\t\t\t\tياكى \t\t\t\t\t\t\t\t"
 
 #: .\apps\login\gettext.py:98
 msgid "Login                                 "
-msgstr ""
+msgstr "كىرىش                                 "
 
 #: .\apps\login\gettext.py:112
 msgid "Password \t\t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr "پارول \t\t\t\t\t\t\t\t\t\t"
 
 #: .\apps\public\gettext.py:37
 msgid "Popular"
-msgstr ""
+msgstr "ئاممىباب"
 
 #: .\apps\public\gettext.py:60
 msgid "#} \t\t"
-msgstr ""
+msgstr "#} \t\t"
 
 #: .\apps\public\gettext.py:69
 msgid " \tCollect from "
-msgstr ""
+msgstr " \tتوپلاڭ "
 
 #: .\apps\public\gettext.py:85
 msgid "组卷网"
-msgstr ""
+msgstr "组卷 网"
 
 #: .\apps\public\gettext.py:94
 msgid "#} \t"
-msgstr ""
+msgstr "#} \t"
 
 #: .\apps\register\gettext.py:10
 msgid "Password                                 "
-msgstr ""
+msgstr "پارول                                 "
 
 #: .\apps\register\gettext.py:12
 msgid "Email                                 "
-msgstr ""
+msgstr "ئېلخەت                                 "
 
 #: .\apps\register\gettext.py:16
 msgid ""
 "Duis aute irure dolor in "
 "reprehenderit                                                             in "
 "voluptate"
-msgstr ""
+msgstr "Duis aute irure dolor in reprenderit in voluptate"
 
 #: .\apps\register\gettext.py:39
 msgid " -                         Collect from "
-msgstr ""
+msgstr " - توپلاڭ "
 
 #: .\apps\register\gettext.py:44
 msgid "Already have an account?"
-msgstr ""
+msgstr "ھېساباتىڭىز بارمۇ؟"
 
 #: .\apps\register\gettext.py:48
 msgid " This is an                                                 example"
-msgstr ""
+msgstr " بۇ بىر مىسال"
 
 #: .\apps\register\gettext.py:51
 msgid "Username                                 "
-msgstr ""
+msgstr "ئىشلەتكۈچى ئىسمى                                 "
 
 #: .\apps\register\gettext.py:54
 msgid ""
 "                             Magz is a HTML5 &amp; CSS3 magazine template "
 "based on Bootstrap 3.                         "
 msgstr ""
+"                             Magz بولسا HTML5 & amp; Bootstrap 3 نى ئاساس "
+"قىلغان CSS3 ژۇرنىلى قېلىپى.                         "
 
 #: .\apps\register\gettext.py:59
 msgid "Email verification                                 "
-msgstr ""
+msgstr "ئېلېكترونلۇق خەت دەلىللەش                                 "
 
 #: .\apps\register\gettext.py:70
 msgid " For a submenu                                                 item"
-msgstr ""
+msgstr " تارماق تىزىملىك ئۈچۈن"
 
 #: .\apps\register\gettext.py:89
 msgid ""
 "                     COPYRIGHT &copy; MAGZ 2017. ALL RIGHT "
 "RESERVED.                     "
 msgstr ""
+"                     COPYRIGHT & copy; MAGZ 2017. بارلىق ھوقۇقلار ساقلاپ "
+"قېلىندى.                     "
 
 #: .\apps\register\gettext.py:100
 msgid "First Name                                 "
-msgstr ""
+msgstr "ئىسمى                                 "
 
 #: .\apps\register\gettext.py:119
 msgid "Popular Tags                         "
-msgstr ""
+msgstr "داڭلىق خەتكۈچلەر                         "
 
 #: .\apps\register\gettext.py:123
 msgid ""
 " Mega menu is a new                                                 feature"
-msgstr ""
+msgstr " مېگا تىزىملىكى يېڭى ئىقتىدار"
 
 #: .\apps\register\gettext.py:129
 msgid "Last Name                                 "
-msgstr ""
+msgstr "فامىلىسى                                 "
 
 #: .\apps\reset\gettext.py:44
 msgid "New Password"
-msgstr ""
+msgstr "يېڭى پارول"
 
 #: .\apps\reset\gettext.py:100
 msgid "Email"
-msgstr ""
+msgstr "ئېلخەت"
 
 #: .\apps\reset\gettext.py:101
 msgid "Reset Password                                 "
-msgstr ""
+msgstr "پارولنى ئەسلىگە كەلتۈرۈش                                 "
 
 #: .\apps\search\gettext.py:15
 msgid "Search with other keywords or use filters for more accurate results."
 msgstr ""
+"باشقا ئاچقۇچلۇق سۆزلەر بىلەن ئىزدەڭ ياكى سۈزگۈچنى ئىشلىتىپ تېخىمۇ توغرا "
+"نەتىجىگە ئېرىشىڭ."
 
 #: .\apps\search\gettext.py:47
 msgid "Filter"
-msgstr ""
+msgstr "سۈزگۈچ"
 
 #: .\apps\search\gettext.py:75
 msgid "Precise search"
-msgstr ""
+msgstr "ئېنىق ئىزدەش"
 
 #: .\apps\search\gettext.py:85
 msgid "Date"
-msgstr ""
+msgstr "چېسلا"
 
 #: .\apps\search\gettext.py:126
 msgid "Default"
-msgstr ""
+msgstr "سۈكۈتتىكى"
 
 #: .\apps\single\gettext.py:2
 msgid "Shares"
-msgstr ""
+msgstr "Shares"
 
 #: .\apps\single\gettext.py:7
 msgid "Mark Otto"
-msgstr ""
+msgstr "Mark Otto"
 
 #: .\apps\single\gettext.py:12
 msgid "You May Also Like"
-msgstr ""
+msgstr "سىزمۇ ياقتۇرىسىز"
 
 #: .\apps\single\gettext.py:21
 msgid "Leave Your Response"
-msgstr ""
+msgstr "جاۋابىڭىزنى قالدۇرۇڭ"
 
 #: .\apps\single\gettext.py:37
 msgid "Write a Response"
-msgstr ""
+msgstr "جاۋاب يېزىڭ"
 
 #: .\apps\single\gettext.py:39
 msgid ""
@@ -1403,50 +1442,52 @@ msgid ""
 "exercitation ullamco laboris nisi ut aliquip ex ea commodo. \t\t\t\t\t\t\t\t"
 "\t\t\t"
 msgstr ""
+" aliqua. Ut enim ad minim veniam, quis nostrud چېنىقىش ullamco laboris nisi "
+"ut aliquip ex ea commodo. \t\t\t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:46
 msgid " \t\t\t\t\t\t\t\t\t20 \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " \t\t\t\t\t\t\t\t\t20 \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:49
 msgid "24 Hours"
-msgstr ""
+msgstr "24 سائەت"
 
 #: .\apps\single\gettext.py:50
 msgid "Web Developer"
-msgstr ""
+msgstr "تور ئاچقۇچى"
 
 #: .\apps\single\gettext.py:51
 msgid "By "
-msgstr ""
+msgstr "By "
 
 #: .\apps\single\gettext.py:59
 msgid "Website"
-msgstr ""
+msgstr "تور بېكەت"
 
 #: .\apps\single\gettext.py:60
 msgid " Facebook \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " Facebook \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:65
 msgid " Twitter \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " Twitter \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:66
 msgid "3 Responses "
-msgstr ""
+msgstr "3 Responses "
 
 #: .\apps\single\gettext.py:72
 msgid "December 26, 2016"
-msgstr ""
+msgstr "2016-يىل 26-دېكابىر"
 
 #: .\apps\single\gettext.py:81
 msgid "December 20, 2016"
-msgstr ""
+msgstr "2016-يىلى 20-دېكابىر"
 
 #: .\apps\single\gettext.py:89
 msgid " Sharing is caring"
-msgstr ""
+msgstr " ئورتاقلىشىش كۆڭۈل بۆلىدۇ"
 
 #: .\apps\single\gettext.py:91
 msgid ""
@@ -1455,6 +1496,10 @@ msgid ""
 "fringilla gravida, consectetur in libero. Duis aute irure dolor in "
 "reprehenderit in voluptate velit esse cillum."
 msgstr ""
+"Nulla sagittis rhoncus nisi, vel gravida ante. Nunc lobortis condimentum "
+"elit, quis porta ipsum rhoncus vitae. Curabitur magna leo, porta vel "
+"fringilla gravida, لىبېرودىكى كونسېرتتۇر. Duis aute irure dolor in "
+"reprehenderit in voluptate velit esse cillum."
 
 #: .\apps\single\gettext.py:94
 msgid ""
@@ -1465,30 +1510,35 @@ msgid ""
 "cupidatat non \t\t\t\t\t\t\t\t\t\t\t\t\t\tproident, sunt in culpa qui "
 "officia deserunt mollit anim id est laborum. \t\t\t\t\t\t\t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\t\t\t\t\t\t\tQuis nostrud چېنىقىش ullamco laboris nisi ut "
+"aliquip ex ea commodo ئاقىۋەت. Duis aute irure dolor in reprehenderit in "
+"voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint "
+"occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit "
+"anim id est laborum. \t\t\t\t\t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:97
 msgid "Author"
-msgstr ""
+msgstr "ئاپتور"
 
 #: .\apps\single\gettext.py:98
 msgid "Duis aute irure dolor in reprehenderit in voluptate velit"
-msgstr ""
+msgstr "Duis aute irure dolor in reprenderit in voluptate velit"
 
 #: .\apps\single\gettext.py:99
 msgid "December 21, 2016"
-msgstr ""
+msgstr "2016-يىل 21-دېكابىر"
 
 #: .\apps\single\gettext.py:114
 msgid "International"
-msgstr ""
+msgstr "International"
 
 #: .\apps\single\gettext.py:115
 msgid "magna"
-msgstr ""
+msgstr "magna"
 
 #: .\apps\single\gettext.py:123
 msgid " Linkedin \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " Linkedin \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:126
 msgid ""
@@ -1496,30 +1546,32 @@ msgid ""
 "elit, sed do eiusmod \t\t\t\t\t\t\t\t\t\t\t\ttempor incididunt ut labore et "
 "dolore "
 msgstr ""
+" \t\t\t\t\t\t\t\t\t\t\t\tلورېم ئىپسۇم دولور ئولتۇرۇش ئامېت ، كونسېرتتۇرنىڭ "
+"يېيىشلىك سەرخىللىرى ، sed do eiusmod tempor incididunt ut labore et dolore "
 
 #: .\apps\single\gettext.py:128
 msgid " Email \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " ئېلخەت \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:129
 msgid "Response "
-msgstr ""
+msgstr "جاۋاب "
 
 #: .\apps\single\gettext.py:138
 msgid "Fusce ullamcorper elit at felis cursus suscipit"
-msgstr ""
+msgstr "Fusce ullamcorper elit felis cursus suscipit"
 
 #: .\apps\single\gettext.py:139
 msgid "Reply"
-msgstr ""
+msgstr "جاۋاب"
 
 #: .\apps\single\gettext.py:142
 msgid "Send Response"
-msgstr ""
+msgstr "جاۋاب ئەۋەتىڭ"
 
 #: .\apps\single\gettext.py:147
 msgid "1220"
-msgstr ""
+msgstr "1220"
 
 #: .\apps\single\gettext.py:148
 msgid ""
@@ -1527,39 +1579,42 @@ msgid ""
 "elit, sed do eiusmod \t\t\t\t\t\t\t\t\t\t\ttempor incididunt ut labore et "
 "dolore magna aliqua. \t\t\t\t\t\t\t\t\t\t\t"
 msgstr ""
+" \t\t\t\t\t\t\t\t\t\t\tلورېم ئىپسۇم دولور ئولتۇرۇش ئامېت ، كونسېرۋاتىپلىق "
+"يېيىشلىك تالانت ئىگىسى ، sed do eiusmod tempor incididunt ut labore et "
+"dolore magna aliqua. \t\t\t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:149
 msgid " Google+ \t\t\t\t\t\t\t\t\t"
-msgstr ""
+msgstr " Google+ \t\t\t\t\t\t\t\t\t"
 
 #: .\apps\single\gettext.py:151
 msgid "December 22, 2016"
-msgstr ""
+msgstr "2016-يىل 22-دېكابىر"
 
 #: .\apps\single\gettext.py:155
 msgid "Lorem Ipsum Dolor Sit Amet Consectetur Adipisicing Elit"
-msgstr ""
+msgstr "Lorem Ipsum Dolor Sit Amet Consectetur Adipisising Elit"
 
 #: .\apps\single\gettext.py:160
 msgid "John Doe"
-msgstr ""
+msgstr "John Doe"
 
 #: .\apps\single\views.py:25
 msgid "hello world"
-msgstr ""
+msgstr "ياخشىمۇسىز دۇنيا"
 
 #: .\settings\dav.py:51
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "ئاددىيلاشتۇرۇلغان خەنزۇچە"
 
 #: .\settings\dav.py:52
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "خەنزۇچە ئەنئەنىۋى"
 
 #: .\settings\dav.py:53
 msgid "Uyghur"
-msgstr ""
+msgstr "ئۇيغۇر"
 
 #: .\settings\dav.py:54
 msgid "English"
-msgstr ""
+msgstr "ئىنگىلىزچە"
